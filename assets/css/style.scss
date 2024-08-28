@@ -12,7 +12,7 @@ body {
   color: white;
   font-family:monospace;
   font-size:large;
-  max-width:50em;
+  max-width:44em;
   margin:0px auto;
   padding:1em 0.5em;
 }
@@ -53,4 +53,9 @@ blockquote {
 
 a {color:dodgerblue;}
 a:visited {color:mediumpurple;}
+a:hover {
+  text-decoration:underline;
+  text-decoration-thickness:2px;
+  text-underline-offset:2px;
+}
 
