@@ -17,11 +17,13 @@ body {
 }
 
 h1, h2, h3 {
+  margin-top: 2em;
   font-family: sans-serif;
 }
 
 h2 {
   border-top:8px solid var(--accent);
+  padding: 0.5em 0em 1em;
 }
 
 p, ul, ol, blockquote {
@@ -30,8 +32,18 @@ p, ul, ol, blockquote {
 }
 
 p {
-  line-height:1.5em;
-  margin-bottom:1.5em;
+  line-height:1.75em;
+  margin-bottom:1.75em;
+}
+
+ul, ol {
+  padding-left:2em;
+}
+
+blockquote {
+  line-height:1.2em;
+  padding-left:1.5em;
+  border-left: 4px solid #555;
 }
 
 a {color:dodgerblue;}
