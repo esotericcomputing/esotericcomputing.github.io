@@ -2,21 +2,36 @@
 ---
 
 @import "{{ site.theme }}";
+
+:root {
+  --accent: goldenrod;
+}
+
 body {
   background-color:#111;
   color: white;
   font-family:monospace;
   max-width:50em;
   margin:0px auto;
+  padding:1em 0.5em;
 }
 
 h1, h2, h3 {
   font-family: sans-serif;
 }
 
+h2 {
+  border-top:8px solid var(--accent);
+}
+
 p, ul, ol, blockquote {
   font-family: monospace;
   color:white;
+}
+
+p {
+  line-height:1.5em;
+  margin-bottom:1.5em;
 }
 
 a {color:dodgerblue;}
