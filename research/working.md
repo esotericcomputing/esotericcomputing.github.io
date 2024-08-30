@@ -14,12 +14,24 @@ But, of course, this is only the internal layer of the hierarchy: There is also 
 
 
 
+## On Demarcation; A Controlled And Focused Slipping Along The Boundry
+
+Per my recent exposure to the demarcation problem and it's resistance to quantification (Smith, 2023), I've been considering the nature / character of my research process here in these early stages, where the shrub must be left to grow wildly before it's eventual shaping into topiary. In the context of demarcation, I will be pursuing a strategy expertly discussed and executed in Melissa McCarthy's _Sharks, Death, Surfers: An Illustrated Companion_ (2019): I will be "slipping" along "the boundary;" Practicing "_he'e nalu_ (ed: surfing)... a controlled and focused slipping, using 'great dexterity & address.'" (39) This research approach is
+
+> the sort of activity that could swerve a man away from the imperial regimen of classifying, claiming territory, drawing fresh maps, and _systematizing_ the unknown. Away from a distinct world defined by external coordinates and into a particular sort of immersion and _participation_ in that world. \[ed: Emphasis my own.\]
+
+> Surfing has a particular sort of freedom, the special quality of being in a privileged relationship with the boundary. The surfer is not in the water, in the air, on dry land, but a little of all of these, all at once; in a carefully controlled balance between each element. There is a useful term that we could borrow from the world of football \[ed: soccer\] the surfer is a _Raumdeuter_, or "space interpreter," who can make something from one realm comprehensible in another, who can negotiate between the two zones. The surfer understands that a boundary is not an impermeable, confining membrane, nor a simple sign post indicating a new state, but fundamentally an opportunity. It enables the surfer to slide along and enjoy the interface. (45)
+
+This appraoch not only better aligns with perspective on the value of acaemic research as a whole, but hews well to my practical experience with entities like the Prelinger Library, who encourage a broader reading of the knowledge space than is typical of academic institutions.
+
+
+
 
 ## Acharya
 
-I've been popping through a collection of essays by the Indian Anarchist M.P.T. Acharya on my BART commutes to-and-from work (_oh, the irony!_). Acharya and R. overlap in some surface respects: They were born just a few years apart to _brahmin_ families in the Madras states; but beyond this, I'm as yet unaware if their divergent trajectories ever crossed.
+I've been popping through a collection of essays by the Indian Anarchist M.P.T. Acharya on my BART commutes to-and-from work. Acharya and R. overlap in some surface respects: They were born just a few years apart to _brahmin_ families in the Madras states; but beyond this, I'm as yet unaware if their divergent trajectories ever crossed.
 
-Acharya's family was influential in the opening phases of the formal Indian Nationalist movement, and he took to the written word early. His predilection for political envelop-pushing eventually necessitated a flight to continental Europe, where he linked up with various threads of the international communist and anarchist movements; His increasingly radical writings were banned in his home country by the British Raj from 1910 to 1935. The collection I'm reading (ed. Laursen, 2019) spans 1923 to 1953, and the essays therein are perhaps better termed missives; They're typically only a few hundred words long, and respond to current events.
+Acharya's family was influential in the opening phases of the formal Indian Nationalist movement, and he took to the written word early. His predilection for political envelop-pushing eventually necessitated a flight to continental Europe, where he linked up with various threads of the international communist and anarchist movements; The British Raj banned his increasingly radical writings in his home country from 1910 to 1935. The collection I'm reading (Laursen, 2019) spans 1923 to 1953, and the essays therein are perhaps better termed missives; They're typically a few hundred words long, and respond to current events.
 
 Beyond opposition to hierarchical organizations, anarchists are a pretty heterogeneous bunch when it comes to theory & praxis. From the pieces I've read so far, his work is utopian rather than practical: He advocates for the abolition of money, government beyond commune-level direct democracy, the military, etc. etc. In the context of the nationalist movement, Acharya's pacifism resulted in an interesting relationship with his contemporary Mahatma Gandhi (better-known both contemporarily and historically). Sometimes effusive in praise (_Gandhi and Non-Violence_, 1930; _Nationalism in India_, 1933), Acharya also criticized Gandhi's approach to pacifism for concluding at civil disobedience rather than disavowing the violent coercion present at the root of the State.<sup>3</sup> (_Mother India_, 1928)
 
