@@ -14,4 +14,8 @@ Moorhouse, G. (1983). _Indian Britanica_. William Collins Sons & Co Ltd. 9780002
 
 Trautmann, T. R. (2011). _India: Brief history of a civilization. Oxford University Press_. 9780199736324.
 
+TK Wacks - Legal Philosophy VSI
+
+TK Graeber - Utopia of Rules
+
 </div>
