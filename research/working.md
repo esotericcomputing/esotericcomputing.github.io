@@ -8,12 +8,12 @@
 
 ## On Hierarchy
 
-I'm working to better understand the context in which Ranganathan (hereafter, R.) lived, because I find it fascinating that Colon Classification -- a pure faceted system -- arose from someone enmeshed in a deeply hierarchical social, political, and educational milleiu. One might expect someone coming from this background to design a knowledge-structuring system of reinforcing rather than dissipating hierarchical elements; Or perhaps his focus on faceting came about specifically as an immune response to this environment.
+I'm working to better understand the context in which Ranganathan (hereafter, R.) lived, because I find it fascinating that Colon Classification -- a pure faceted system -- arose from someone enmeshed in a deeply hierarchical social, political, scientific, and educational milleiu. One might expect someone coming from this background to design a knowledge-structuring system reinforcing rather than dissipating hierarchical elements... or perhaps this non-hierarchical strategy was a direct response to this environment?
 
 
 
 
-## _Varna_, _Jati_, and Caste
+### _Varna_, _Jati_, and Caste
 
 Trautmann (2011) provides some helpful clarification for Westerners: What we typically think of as "caste" is more properly "_varna_." The Vedic tradition (the classical system of Hindu knowledge and philosophy) divides people into four _varnas_, which specify an individual's _dharma_ (Reductively: One's duty in life). The _Rig Veda_ (c. 1500-1000 bce) includes a creation story in which "the primordial being, Purusha (man or spirit), often also called Prajapti, lord of creatures, or Brahma" completes a complex act of self-sacrifice, in which 
 
@@ -26,10 +26,7 @@ But, of course, this is only the internal layer of the hierarchy: There is also 
 
 
 
-
-
-
-## The British Raj
+### The British Raj
 
 But let's rewind a bit to gain firmer footing in our time and place. R. was born to an India newly-transformed by transportation and information infrastructures: Leading up to the 1858 rebellion, the EIC's final Governor General, James Ramsey Marquis of Dalhousie (serving 1848-1856, hereafter Dalhousie) pursued intertwined strategies of infrastructural development, territorial expansion, and "unification of sovereignty." (Metcalf & Metcalf, 2006)
 
