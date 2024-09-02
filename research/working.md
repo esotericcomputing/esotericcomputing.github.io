@@ -1,5 +1,11 @@
 # Working
 
+
+
+
+
+
+
 ## On Hierarchy
 
 I'm working to better understand the context in which Ranganathan (hereafter, R.) was raised, because I find it fascinating that Colon Classification -- a pure faceted system -- arose from someone living in a deeply hierarchical social milleiu. One might expect someone coming from this background to design a knowledge-structuring system of reinforcing rather than dissipating hierarchical elements. 
@@ -14,15 +20,52 @@ But, of course, this is only the internal layer of the hierarchy: There is also 
 
 
 
-## On Demarcation; A Controlled And Focused Slipping Along The Boundry
 
-Per my recent exposure to the demarcation problem and it's resistance to quantification (Smith, 2023), I've been considering the nature / character of my research process here in these early stages, where the shrub must be left to grow wildly before it's eventual shaping into topiary. In the context of demarcation, I will be pursuing a strategy expertly discussed and executed in Melissa McCarthy's _Sharks, Death, Surfers: An Illustrated Companion_ (2019): I will be "slipping" along "the boundary;" Practicing "_he'e nalu_ (ed: surfing)... a controlled and focused slipping, using 'great dexterity & address.'" (39) This research approach is
+
+
+
+
+
+
+
+## The British Raj
+
+Let's rewind a bit to gain firmer footing in our time and place. R. was born to an India newly-transformed by transportation and information infrastructures: Leading up to the 1858 rebellion, the EIC's final Governor General, James Ramsey Marquis of Dalhousie (serving 1848-1856, hereafter Dalhousie) pursued intertwined strategies of inftrastructural development, teritorial expansion, and "unification of sovereignty." (Metcalf & Metcalf, 2006)
+
+Rather than "importing" "modernity" from Britan, India's value to the British meant that technological innovations were actually deployed simultaneously in the two territories, with India sometimes used as a proving ground. The introduction of railways (funded by private British companies with garunteed loans from the EIC and later the Crown) simultaneously expedited the colony's extractive economy and military relocation for outward expansion; While on the communication front,
+
+> The telegraph linking the chief centres of India was completed during Dalhousie's term. Comprising some 4,500 miles of line, it made possible rapid transmission of information on politics, security, trade, and industrusty, as well as the personal messages of evermore individuals. The cable linking Britain and India... was laid in 1865, a year before the link between Britain and the U.S." (ibid, 99)
+
+The governmental "penny post" was established in 1854, allowing mail to be sent "any distance within the country, at the same low cost," and proved "indespensible to the communications and fundraising of the voluntary societies, organizations, and publishers emerging in this period." (ibid, 99) Improvements in shipbuilding in concert with the newly-opened Suez Canal further expedited information exchange: "In the 1830s an exchange of letters between Britain and India could take two years; by 1870... a letter could reach Bombay in only one month." (ibid, 99)
+
+Dalhousie's "unification of sovreighty" strategy fared less well: He enacted the "lapse" policy, whereby the British seized client kingdoms when the ruler had no legitimate heir, rather than the traditional practice of the ruler recognizing an apoted heir. This conceptual shift from a patronage model to direct seizure, the continued political disenfranchisement of Indians, and a spate of poorly-implemented policies affecting the Sepoys (Indian troops serving the British) coalesced into the 1858 rebellion. Localized mainly in the Northern territories, the violence was severe and often indiscriminate, with attrocities freely commited on both sides of the line.<sup>4</sup>
+
+Following the brutal pacification of the rebellion, the Crown took a different tack as it assumed control of India. The lapse policy was rescinded; Rather than seize territory directly, princes were permitted to rule independently as clients of the British, meaning "about one-third of the people of India were, until the end of the Raj, to remain under the 'indirect rule' of some 500 princes." (Note the increasingly complex maps from this period.) British Parliament created a complex system of committees, boards (etc), with "supreme authority" vested in the Viceroy, the title assumed by Governer General Canning following Queen Victoria proclaimed these changes to the "Princes, Chiefs, and People of India'" in November 1858. (ibid, 104) The occasion of Queen Victoria's 1876 elevation to Empress of India "was intended to create a new bond between Britain and her chief imperial posession..." and the manner of its formal pronouncement (a blend of European and [Mughal](https://en.wikipedia.org/wiki/Durbar_(court)) court aesthetics) was "intended above all to recognize and solidified bonds with princes, rural magnates, and urban notables." (ibid, 115)
+
+But along with the simultaneous relaxing and stratfication of political control, 1858 uprising also intensified racial tensions. Thereafter, the British employed the common Colonial technique of favoring racial/ethnic minorities in political and martial appointments, and increasingly segregated and militarized their own social spaces. Dovetailing with current medical/urban design thinking (e.g., miasma theory), the contrast between wealthy, spacious European enclaves and the densely-packed city centers further stoked the colonist's sense of racial superiority and paranoia. Often, the newly-established rail networks acted as _de facto_ boundries, or "civil lines" (ibid, 109) between colonial and indigenous spaces; Within the colonial spaces, dovetailed social and archetectural definement compartmentalized inter-racial interactions.
+
+In contrast to the EIC, the Crown's civil aparatus became increasingly occupied with information control. The first decennial Indian census was undertaken in 1872, and a full geographic survey completed in 1878. Newspapers now required government permits, and copies of books and pamphlets were required to be submitted to the government.<sup>5</sup>
+
+Coming full-circle to the lead-in to my research: The British's racial segregation, information control, and 19th c. Physiognomy coalesced into an increasingly systemetized and policed anthropological view of India's 200 million deeply hetergenous residents. Traditionally nomadic "pastoral" tribes were now classified as "itinerant," and therefore "criminal." (ibid, 112) Bolstered by the ever-improving technology of photography,
+
+> The most important identity for Victorian anthropologists of India was 'caste', taken as a concrete, measuring 'thing' that could be fitted into a hierarchy able to be ascertained and quantified in reports and surveys... The first major compilation of such photographs was _The Peoples of India_, published by the Government of India in 1868 in eight volumes. The picture of the Banjaras, for example, nomadic herdsmen and traders... was accompanied by a description of them having 'a reputation for perfect honesty', but they were later relegated to the status of 'criminal tribe', a reminder of the fantasy that passed for exactitude. The caste 'system' is thus one of the countless parameters of life in India that is a product of modern change... now too often identified as 'traditional'. (ibid, 112)
+
+
+
+
+
+## The Demarcation Problem, or A Controlled And Focused Slipping Along The Boundry
+
+The above British Colonial example of knowledge systemezation demonstrates an extreme aversion to uncontrolled, unproblematically ambiguous ways of moving through information, personal experiences, and the world generally.
+
+Per my recent exposure to the demarcation problem and it's resistance to quantification, I've been considering the nature / character of my research process here in these early stages, where the shrub must be left to grow wildly before it's eventual topiary prune. In the context of demarcation, I will be pursuing a strategy expertly discussed and executed in Melissa McCarthy's _Sharks, Death, Surfers: An Illustrated Companion_ (2019): I will be "slipping" along "the boundary;" Practicing "_he'e nalu_ \[ed: surfing\]... a controlled and focused slipping, using 'great dexterity & address.'" (39) This research approach is
 
 > the sort of activity that could swerve a man away from the imperial regimen of classifying, claiming territory, drawing fresh maps, and _systematizing_ the unknown. Away from a distinct world defined by external coordinates and into a particular sort of immersion and _participation_ in that world. \[ed: Emphasis my own.\]
 
-> Surfing has a particular sort of freedom, the special quality of being in a privileged relationship with the boundary. The surfer is not in the water, in the air, on dry land, but a little of all of these, all at once; in a carefully controlled balance between each element. There is a useful term that we could borrow from the world of football \[ed: soccer\] the surfer is a _Raumdeuter_, or "space interpreter," who can make something from one realm comprehensible in another, who can negotiate between the two zones. The surfer understands that a boundary is not an impermeable, confining membrane, nor a simple sign post indicating a new state, but fundamentally an opportunity. It enables the surfer to slide along and enjoy the interface. (45)
+> Surfing has a particular sort of freedom, the special quality of being in a privileged relationship with the boundary. The surfer is not in the water, in the air, on dry land, but a little of all of these, all at once; in a carefully controlled balance between each element. There is a useful term that we could borrow from the world of football \[ed: soccer\] the surfer is a _Raumdeuter_, or "space interpreter," who can make something from one realm comprehensible in another, who can negotiate between the two zones. The surfer understands that a boundary is not an impermeable, confining membrane, nor a simple signpost indicating a new state, but fundamentally an opportunity. It enables the surfer to slide along and enjoy the interface. (45)
 
-This appraoch not only better aligns with perspective on the value of acaemic research as a whole, but hews well to my practical experience with entities like the Prelinger Library, who encourage a broader reading of the knowledge space than is typical of academic institutions.
+This approach not only better aligns with perspective on the value of academic research as a whole, but hews well to my practical experience with entities like the Prelinger Library, who encourage a broader understanding of the knowledge space than is typical of academic institutions. But there are dangers to this approach when engaging with material outside one's own culture and experience; To continue the metaphor, patterns of swell and tide obvious to a beach's residents that may easily cause a visitor to bail.
+
 
 
 
@@ -49,6 +92,11 @@ To put a slightly finer point on this, Acharya saw the cessation of British rule
 2. Prior to the famine, Madras was experiencing an annual population growth of about 1.2 million; Afterword, its population growth remained halted until 1881. (Butterworth, 1932)
 
 3. E.g. The legislatively-sanctioned ability of the police and military to enact violence on citizens; See ([Wacks, 2014](https://global.oup.com/academic/product/philosophy-of-law-a-very-short-introduction-9780199687008)) and (Graeber, 2015). 
+
+4. For a particularly nightmarish tangent, see the execution method of 'Blowing from the Gun;' which the EIC began using as a punishment for desertion and treason following a survey of the region's common execution techniques, and was used extensively following the 1958 rebellion.
+
+5. Side note: I'd honestly never considered the surveilance aspect of the LOC's repository function until reading this.
+
 
 
 
