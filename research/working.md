@@ -5,11 +5,12 @@
 
 I'm working to better understand the context in which Ranganathan (hereafter, R.) lived, because I find it fascinating that Colon Classification -- a pure faceted system -- arose from someone enmeshed in a deeply hierarchical social, religious, political, scientific, and educational milleiu. One might expect someone coming from this background to design a knowledge-structuring system reinforcing rather than dissipating hierarchical elements... or perhaps this non-hierarchical strategy was a direct response to this environment?
 
+As we engage with the 19<sup>th</sup> c. Indian culture, and our Hindu research subject in particular, we shall (1) remain ever-vigilant against the Western temptation for exoticization; And (2) remind ourselves that Hindus are neither monolithic nor India's sole peoples: Muslims, Sikhs, and other groups contribute to a meaningful, longstanding polyculturalism.
 
 
 ### Varna, Jati, and Caste
 
-Trautmann (2011) provides some helpful clarification for Westerners: What we typically think of as "caste" is more properly "_varna_." The Vedic tradition (the classical system of Hindu knowledge and philosophy) divides people into four _varnas_, which specify an individual's _dharma_ <span class=trans>(reductively, one's duty in life)</span>. The _Rig Veda_ (c. 1500-1000 bce) includes a creation story in which "the primordial being, Purusha (man or spirit), often also called Prajapti, lord of creatures, or Brahma" completes a complex act of self-sacrifice, in which 
+Trautmann (2011) provides some helpful clarification for Westerners: What we typically think of as "caste" is more properly "_varna_." The Vedic tradition (the classical system of Hindu knowledge and philosophy) divides people into four _varnas_, which specify an individual's _dharma_ <span class=trans>\[Reductively, one's duty in life.\]</span>. The _Rig Veda_ (c. 1,500-1,000 bce) includes a creation story in which "the primordial being, Purusha (man or spirit), often also called Prajapti, lord of creatures, or Brahma" completes a complex act of self-sacrifice, in which 
 
 > ...parts of his dismembered body became the things of the phenomenal universe (animals, plants, the division of time, and so forth) including human society in its four parts: From his mouth came the _brahmin_, who is associated with the sacred utterance of the Veda; from his arms, the _kshatriya_ or warrior; from his thighs, the _vaishya_ farmer and tradesman; and from his feet the _shudra_ or servant. (Trautmann, 2011, p. 96)
 
@@ -17,22 +18,19 @@ Parallel to this esoteric system, we have the boots-on-the-ground system of _jat
 
 And finally, we have the castes proper, which "number in the thousands and \[are\] generally limited in their extent to a single region of India." (Trautmann, 2011) Caste provides yet another layer of social and economic behavioral norms, which often entrap lower-caste individuals in disadvantageous circumstances. While caste-based discrimination was officially outlawed with "the constitutions adopted by India in 1949 and by Pakistan in 1953," it still remains a relevant social grouping. Repairative legal frameworks (similar to Affirmative Action in the U.S.) exist for "scheduled castes;" And in India's democracy, castes often function as political interest groups whose influence politicians and governments must be cognizant of. (Britannica, 2024; Trautmann, 2011)
 
-R. was born in 1892, to a Tamil Brahmin family in present-day [Sirkazhi / Siyali](https://en.wikipedia.org/wiki/Sirkazhi), [Thanjavur, Tamil Nadu](https://www.google.com/maps/place/Thanjavur,+Tamil+Nadu,+India/@10.0078203,77.8920773,7.04z/data=!4m6!3m5!1s0x3baab89cea453039:0xe113da9b1f632be6!8m2!3d10.7869994!4d79.1378274!16zL20vMDFfemtt?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D), then located in the [Madras Presidency](https://en.wikipedia.org/wiki/Madras_Presidency). His father "was a landlord holding a medium-sized property of wet land, growing paddy... a learned and culture man, used to giving _Ramayana Pravachanam_ <span class=trans>(a recitation of and educational/exegetic talk on the _Ramayana_)<sup>Pravachanam</sup></span> to small audiences." (Krishnamurthy, c2014)
+R. was born in 1892, to a Tamil Brahmin family in present-day [Sirkazhi / Siyali](https://en.wikipedia.org/wiki/Sirkazhi), [Thanjavur, Tamil Nadu](https://www.google.com/maps/place/Thanjavur,+Tamil+Nadu,+India/@10.0078203,77.8920773,7.04z/data=!4m6!3m5!1s0x3baab89cea453039:0xe113da9b1f632be6!8m2!3d10.7869994!4d79.1378274!16zL20vMDFfemtt?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D), then located in the [Madras Presidency](https://en.wikipedia.org/wiki/Madras_Presidency). His father "was a landlord holding a medium-sized property of wet land, growing paddy... a learned and culture man, used to giving _Ramayana Pravachanam_ <span class=trans>\[A recitation and exegetic talk on the _Ramayana_.\]<sup>P</sup></span> to small audiences." (Krishnamurthy, c2014)
 
-Before enjoying the potpourri of Sanskrit in the next paragraph, it's worth reproducing some helpful contextual perspectives on Hinduism, broadly, from Broughton (2024) -- with the caveat that we must remain ever-vigilant against the Western temptation for exoticization:
+Before continuing to enjoy the linguistic texture of Sanskrit, it's worth taking a moment to reproduce some broad context on Hinduism, from Broughton (2024):
 
-> Hinnells states that: “Hinduism displays few of the characteristics that are generally expected of a \[Western\] religion. It is not a system of theology, nor a single moral code, and the concept of God is not central to it”. \[¶\] Hindu religion is, for all practical purposes, impossible to define. \[¶\] It is not a founded religion... It has nothing even remotely approaching a central organization... no particular ecclesiastical or institutional structure... \[Per\] Radhakrishnan, a former president of India: ‘Hinduism is more a culture than a creed.’ \[...\] Staal tells us that “in these same areas \[South, Southeast and East Asia\] no words for ‘theology’ or ‘religion’ existed prior to the nineteenth century”, and that “the three monotheisms of ‘the West’ and the so-called religions of ‘the East’ are not the same kind of thing.” \[...\] Hindu thought does not distinguish between religious and secular, but constantly seeks unity in confusing plurality. \[Significant glossing mine.\]
+> Hinnells states that: “Hinduism displays few of the characteristics that are generally expected of a \[Western\] religion. It is not a system of theology, nor a single moral code, and the concept of God is not central to it”.  \[...\] It is not a founded religion... It has nothing even remotely approaching a central organization... no particular ecclesiastical or institutional structure... \[per\] Radhakrishnan, a former president of India: ‘Hinduism is more a culture than a creed.’ \[...\] Hindu thought does not distinguish between religious and secular, but constantly seeks unity in confusing plurality. \[Significant glossing mine.\]
 
-From the outset, R.'s education involved this religious and secular intermingling: It was initiated with an _Asksharabyasam_ held "on _Vijayadasami_ day in October 1897" (Krishnamurthy, c2014) <span class=trans>(a Vedic ceremony where the child writes their first letter and time; _Vijayadasami_ is an auspicious day marking the end of [a religious festival](https://en.wikipedia.org/wiki/Vijayadashami)\])</span> Along with reading and writing, he also "learnt about the life teachings of _Nayanars_ (_Shaivaite Bhaktas_) and _Alwars_ (_Vaishnavaite Bhaktas_.)" from his Sanskrit teacher. (Krishnamurthy, c2014) <span class=trans>(_Nayanars_ and _Alwars_ are groups of Tamil Hindu (lacking a more accurate term) saints; _Bhakta_ indicates a religious follower, i.e. the former are devotees of Shiva, the later of Vishnu.)</span>
+From the outset, R.'s education involved this intertwining: It was initiated with an _Asksharabyasam_ held "on _Vijayadasami_ day in October 1897" (Krishnamurthy, c2014) <span class=trans>\[_Asksharabyasam_ is a ceremony where a child writes their first letter and time; _Vijayadasami_ is an auspicious day marking the end of [a religious festival](https://en.wikipedia.org/wiki/Vijayadashami).\]</span> Along with reading and writing, he also "learnt about the life teachings of _Nayanars_ (_Shaivaite Bhaktas_) and _Alwars_ (_Vaishnavaite Bhaktas_.)" from his Sanskrit teacher. (Krishnamurthy, c2014) <span class=trans>\[_Nayanars_ and _Alwars_ are groups of (lacking a more accurate term) Tamil Hindu Saints; _Bhakta_ indicates a religious follower, i.e. the former are devotees of Shiva, the later of Vishnu.\]</span>
 
-Though his continuing education was increasingly secular and his work "empiricist," he cultivated a flourishing spirituality, and "remained staunchly religious and traditionalist right from childhood to the end of his life." He was a "multidimensional individual with seemingly contradictory traits," a "culturally orthodox Hindu" and a "rigorous scientist": (Satija & Gupta, 2024)
+Though his higher education proceeded into the rationalist world of mathematics and his library work was honed with empiricism, he "remained staunchly religious and traditionalist right from childhood to the end of his life." He was a "multidimensional individual with seemingly contradictory traits," a "culturally orthodox Hindu" and a "rigorous scientist": (Satija & Gupta, 2024)
 
-> Ranganathan followed the practices of his religion and found inspiration in the rich philosophical and literary traditions that had grown up around it, even if his practice grew more unconventional and, apparently, less heartfelt as he grew older. Arguably more important to him than religion as such was the concept of mysticism... \[which\] led him to dabble in occultism at certain points in his life and to accord mysticism as a central place in the disciplinary structure of main classes in the Colon classification. (Bianchini & Dousa, 2024; Broughton, 2024)
+> Ranganathan followed the practices of his religion and found inspiration in the rich philosophical and literary traditions that had grown up around it, even if his practice grew more unconventional and, apparently, less heartfelt as he grew older. Arguably more important to him than religion as such was the concept of mysticism... \[which\] led him to dabble in occultism at certain points in his life and to accord mysticism as a central place in the disciplinary structure of main classes in the Colon classification. (Bianchini & Dousa, 2024; ref. Broughton, 2024)
 
-As my research evolves into praxis, this intertwining of the esoteric and the practical will become increasingly salient.<sup>note</sup>
-
-
-
+In a 1948 UNESCO and IFLA-sponsored educational program held in England, R. "traced the roots of philosophy of librarianship back to the Vedas and considered his _Five Laws_ (1931) as simple corollaries of this principle." (Broughton, 2024) As my research evolves into praxis, this intermingling of the esoteric and practical (and a deeper engagement with R.'s interpretation of _Ekavakyata_ <span class=trans>\[A Vedic concept of universal interconnectedness\]</span>) will become increasingly salient.<sup>note</sup>
 
 
 
@@ -41,19 +39,19 @@ As my research evolves into praxis, this intertwining of the esoteric and the pr
 
 ### The Company Raj
 
-But of course, these are only the internal layers of hierarchy: There is also India's colonial structure to contend with. let's rewind a bit to gain firmer footing in our time and place.
+But of course, these cultural aspects only provide the internal layers of hierarchy: There is also India's colonial structure to contend with. let's rewind a bit to gain firmer footing in our time and place.
 
-The British East India Company \[EIC\] took control of large swathes of the subcontinent gradually, culminating in a series of legal and martial events in the back half of the 18<sup>th</sup> century which historians typically use as the start of the "Company Raj." <span class=trans>(Raj: Rule. The compound title _Maharaja_ was often used for client kings.)</span> Even with continual territorial expansion, India remained a patchwork of EIC control and client kingdoms (Mysore, Haidarabad, Bhutan, etc.) with varying political and economic relationships. EIC postings were initially open to single men only, any many a second or third son during the Regency sought their fortune in the Colony -- a serious gamble, considering the staggering British mortality rates from tropical diseases.
+The British East India Company \[EIC\] took control of large swathes of the subcontinent gradually, culminating in a series of legal and martial events in the back half of the 18<sup>th</sup> century which historians typically use as the start of the "Company Raj." <span class=trans>\[Raj: Rule. The compound title _Maharaja_ was typically used for client kings.\]</span> Even with continual territorial expansion, India remained a patchwork of EIC control and client kingdoms (Mysore, Haidarabad, Bhutan, etc.) with varying political and economic relationships. EIC postings were initially open to single men only, any many a second or third son during the Regency sought their fortune in the Colony -- a serious gamble, considering the staggering British mortality rates from tropical diseases.
 
 As British commercial interests, infrastructure, and governmental apparatus became more entrenched in the 19<sup>th</sup> century, the political and social dynamics shifted. The European sphere was no longer a male-only space: EIC officers now relocated their families to enclaves, where upper-class Victorian social patterns were adapted for the Indian milleiu. Expanding British territory required an expanded military to secure it; But the EIC policy of enlisting indigenous soldiers (Sepoys) peaked just as the Colonial government implemented policies that destabilized the British relationship with both India's client kingdoms and its general population. Thus the stage was set for...
 
 ### The 1858 Rebellion
 
-The EIC's penultimate executive, Governor General James Ramsey Marquis of Dalhousie (serving 1848-1856, hereafter Dalhousie) pursued intertwined strategies of infrastructural development, territorial expansion, and "unification of sovereignty." (Metcalf & Metcalf, 2006) We'll consider his more-successful infrastructural efforts in the next section; but his "unification of sovereignty" policies proved disastrous.
+The EIC's penultimate executive, Governor General James Ramsey Marquis of Dalhousie (serving 1848-1856, hereafter Dalhousie) pursued intertwined strategies of infrastructural development, territorial expansion, and "unification of sovereignty." (Metcalf & Metcalf, 2006, p.94) We'll consider his more-successful infrastructural efforts in the next section; but his "sovereignty" policies proved disastrous.
 
-As early as 1834, the EIC had formally acknowledged a "lapse" policy, whereby client kingdoms could be seized and governed directly when a ruler had no natural heir (as opposed to the traditional practice of a ruler recognizing an adopted heir). This had been used only a few times for unusual circumstances in small kingdoms; but at the outset of his Governorship, Dalhousie began aggressively employing it to seize major kingdoms.
+As early as 1834, the EIC had formally articulated a "lapse" policy, whereby client kingdoms could be seized and governed directly when a ruler had no natural heir (as opposed to the traditional practice of a ruler recognizing an adopted heir). This had been used only a few times for unusual circumstances in small kingdoms; but at the outset of his Governorship, Dalhousie began aggressively employing it to seize large, economically important kingdoms.
 
-This shift to direct seizure coupled with Indian's continued frustration with their political disenfranchisement was the powderkeg; A spate of poorly-implemented and religiously-insensitive policies effecting the Sepoys lit the fuse. The 1858 rebellion was localized mainly in the Northern territories, but the violence was severe, often indiscriminate, and psychologically scarring. Atrocities were freely committed on both sides of the line.<sup>3</sup>
+This shift to direct seizure coupled with everyday Indians' continued frustration with their political disenfranchisement was the powderkeg; A spate of poorly-implemented and religiously-insensitive policies effecting the Sepoys lit the fuse. The 1858 rebellion was localized mainly in the Northern territories, but the violence was severe, often indiscriminate, and psychologically scarring. Atrocities were freely committed on both sides of the line.<sup>3</sup>
 
 
 ### The British Raj
@@ -88,9 +86,17 @@ For example, the 1901 decennial census attempted to "arrive at a \[hierarchical\
 
 
 
-## On Process; The Demarcation Problem; A Controlled And Focused Slipping Along The Boundary
 
-The above (frankly, obsessive) example of hierarchical knowledge systematization demonstrates an extreme aversion to uncontrolled, happily ambiguous ways of moving through information, personal experiences, and the world generally. 
+
+
+## On Process
+
+The above (frankly, icky) example of hierarchical knowledge systematization demonstrates an extreme aversion to uncontrolled, happily ambiguous ways of moving through information, personal experiences, and the world generally. 
+
+
+
+
+### The Demarcation Problem, or, A Controlled And Focused Slipping Along The Boundary
 
 Per my recent exposure to the demarcation problem and its resistance to quantification, I've been considering the nature / character of my research process here in these early stages, where the shrub must be left to grow wildly before it's eventual topiary prune. In the context of demarcation, I will be pursuing a strategy expertly discussed and executed in Melissa McCarthy's _Sharks, Death, Surfers: An Illustrated Companion_ (2019): I will be "slipping" along "the boundary;" Practicing "_he'e nalu_ \[ed: surfing\]... a controlled and focused slipping, using 'great dexterity & address.'" (McCarthyl, 2019, p. 39) This research approach is
 
@@ -102,9 +108,10 @@ This approach not only better aligns with perspective on the value of academic r
 
 
 
+
 ## M.P.T. Acharya
 
-I've been popping through a collection of essays by the Indian Anarchist M.P.T. Acharya on my BART commutes to-and-from work. Acharya and R. overlap in some surface respects: They were born just a few years apart to _brahmin_ families in the Madras states; but beyond this, I'm as yet unaware if their divergent trajectories ever crossed.
+I've been popping through a collection of essays by the Indian Anarchist M.P.T. Acharya on my BART commutes to-and-from work. Acharya and R. overlap in some surface respects: They were born just a few years apart to _brahmin_ families in the Madras states; but beyond this, I'm as yet unaware if their (greatly) divergent trajectories ever crossed.
 
 Acharya's family was influential in the opening phases of the formal Indian Nationalist movement, and he took to the written word early. His predilection for political envelop-pushing eventually necessitated a flight to continental Europe, where he linked up with various threads of the international communist and anarchist movements; The British Raj banned his increasingly radical writings in his home country from 1910 to 1935. The collection I'm reading (Laursen, 2019) spans 1923 to 1953, and the essays therein are perhaps better termed missives; They're typically a few hundred words long, and respond to current events.
 
@@ -153,6 +160,28 @@ Serious Person / Unserious Persion is a false dichotomy: A perons's seriousness 
 "they're just following the ribbon of road into the clouds"
 
 [_Imaginal Disk_ by Magdalena Bay](https://music.youtube.com/playlist?list=OLAK5uy_kMVviQYyPZN-EUsk91z_hZJzCzu1804xg), August 2024
+
+The new [Spectral Wound](https://spectralwound.bandcamp.com/album/songs-of-blood-and-mire) isn't as good as the last two
+
+Academia is a magic circle
+
+[Transfer Station Blue](https://www.youtube.com/watch?v=9RdRAvpUu98)
+
+I have the luxury of unsuccessful experiments
+
+There was a new employee at the coffee shop, and she got my order wrong... but it was actually a great; a surprise; a nice change of pace. The rich taste of chocolate. How do we replicate this experience?
+
+you can feel the heat lurking, the potential
+
+That strange feeling of emptiness when there's no more Olympics to watch
+
+bright-eyed and bushy-tailed
+
+lol get it together [king rex](https://people.brandeis.edu/~teuber/Fuller_Eight_Ways_To_Fail_To_Make_Law.pdf)
+
+
+
+
 
 
 
