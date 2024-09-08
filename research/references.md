@@ -4,13 +4,15 @@ Acharya, M. P. T, & Laursen, O. B. (Ed.). (2019). _We are anarchists: Essays on 
 
 Bianchini, C., & Dousa, T. M. (2024) Editorial Introduction: Ranganathan and his legacy: Past, present, future. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
 
+Britannica, T. Editors of Encyclopaedia (2024, September 7). _Dalit_. Encyclopedia Britannica. https://www.britannica.com/topic/Dalit
+
 Broughton, V. (2024) Ranganathan's religion and its influence on his library science. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
 
 Butterworth, A. (1932). _District administration in Madras, 1858-1918_. In _Cambridge history of India: Vol. VI The Indian Empire (1858-1918)_. Caimbridge University Press.
 
 Dumont, L. (1980) _Homo Hierarchicus: The caste system and its implications (Revised 2nd ed)_. University of Chicago Press. 9780226169634
 
-Krishnamurthy, M. (c2014; Retrieved 2024, September 7). DRr. S.R. Ranganathan: Access portal to works by and on him. Sarada Ranganathan Endowment for Library Science, Bangalore. https://www.isibang.ac.in/~library/portal/
+Krishnamurthy, M. (c2014; Retrieved 2024, September 7). _Dr. S.R. Ranganathan: Access portal to works by and on him._ Sarada Ranganathan Endowment for Library Science, Bangalore. https://www.isibang.ac.in/~library/portal/
 
 McCarthy, M. (2019). _Sharks, death, surfers: An illustrated companion. Sternberg Press_. 9783956794247.
 
