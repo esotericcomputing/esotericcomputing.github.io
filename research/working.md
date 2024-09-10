@@ -100,19 +100,6 @@ This approach not only better aligns with perspective on the value of academic r
 
 
 
-## Larned's Feminist Powers / Patriarchal Powers poster
-
-A few weeks ago, an excellent item appeared at the Prelinger Library: A [rotational poster by graphic designer Emily Larned](https://emilylarned.square.site/product/efemmera-reissue-6-feminist-powers/12?cs=true&cst=custom), depicting material from Wheeler & Chinn's _Peace & Power: A Handbook of Feminist Process_. (The poster includes material from both the 3rd and 8th editions, 1984 and 2012, respectively.) The poster is divided into a grid, where each square has text depicting two diverging ways to consider or implement power, in Feminist and Patriarchal modes. Here's a few examples:
-
-- (Feminist) Power of distribution: Goods and resources shared to benefit all according to need. (Patriarchal) Power of accumulation: Material goods and resources are hoarded for personal gain.
-- (Feminist) Power of integration: Decisions are examined in context consider "both" "and" possibilities. (Patriarchal) Power of opposites: Decisions are polarized into "for" or "against" choices.
-
-And of course:
-
-- (Feminist) Power of solidarity: Responsibility is distributed in a lateral network of connections. (Patriarchal) Power of <ins>hierarchy</ins>: Linear chain of command with layers of privilege and responsibility. \[Emphasis mine.\]
-
-
-
 ## M.P.T. Acharya
 
 I've been popping through a collection of essays by the Indian Anarchist M.P.T. Acharya on my BART commutes to-and-from work. Acharya and R. overlap in some surface respects: They were born just a few years apart to _brahmin_ families in the Madras states; but beyond this, I'm as yet unaware if their (greatly) divergent trajectories ever crossed.
@@ -124,6 +111,21 @@ Beyond opposition to hierarchical organizations, anarchists are a pretty heterog
 To put a slightly finer point on this, Acharya saw the cessation of British rule as an opportunity for social liberation; Rather than replacing one government with another, he instead advocated against the formation of a constitutional government and devolving sovereignty directly to the people. There's a steady, illicit thrill in encountering ideas like this: Constitutions, Bills of rights, and other government-formation documents are double-edged swords. On the one hand, they draw boundaries around what the State can and cannot do; But on the other, their existence legitimizes both State control of the citizenry, _and_ a framework for expanding the circumstances and nature of this control. If a country without a constitution seems a bit too wacky, a bit too <ins>utopian</ins>, even a cursory glance through the history books reveals it's a rare day indeed when the State dissipates rather than consolidates its power -- so in another way of thinking, it's actually deeply <ins>practical</ins> to decline repeating this pattern.
 
 A little surprisingly, recent political events in the U.S. have begun to bubble these ideas up from hyper-niche academic discourse into the public sphere. The week following my detour into Acharya, NYT published a longread titled "[The Constitution is Sacred. Is It Also Dangerous?](https://www.nytimes.com/2024/08/31/books/review/constitution-secession-democracy-crisis.html)" while the op-ed department went with the characteristically clickbaity "[The Constitution Is Broken and Should Not Be Reclaimed](https://www.nytimes.com/2022/08/19/opinion/liberals-constitution.html)" just a few days later.
+
+
+
+
+## Larned's Feminist Powers / Patriarchal Powers poster
+
+A few weeks ago, an excellent item appeared at the Prelinger Library: A [rotational poster by graphic designer Emily Larned](https://emilylarned.square.site/product/efemmera-reissue-6-feminist-powers/12?cs=true&cst=custom), depicting material from Wheeler & Chinn's _Peace & Power: A Handbook of Feminist Process_. (The poster includes material from both the 3rd and 8th editions, 1984 and 2012, respectively.) The poster is divided into a grid, where each square has text depicting two diverging ways to consider or implement power, in Feminist and Patriarchal modes. Here's a few examples:
+
+(Feminist) Power of distribution: Goods and resources shared to benefit all according to need. (Patriarchal) Power of accumulation: Material goods and resources are hoarded for personal gain.
+
+(Feminist) Power of integration: Decisions are examined in context consider "both" "and" possibilities. (Patriarchal) Power of opposites: Decisions are polarized into "for" or "against" choices.
+
+And of course:
+
+(Feminist) Power of solidarity: Responsibility is distributed in a lateral network of connections. (Patriarchal) Power of <ins>hierarchy</ins>: Linear chain of command with layers of privilege and responsibility. \[Emphasis mine.\]
 
 
 
