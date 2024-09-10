@@ -4,11 +4,11 @@
 
 Broadly, I'm working to understand the context in which Ranganathan (hereafter, R.) grew up, because I find it fascinating that Colon Classification -- a pure faceted system -- arose from someone enmeshed in a deeply hierarchical cultural, political, scientific, and educational milleiu.
 
-India came under the control of the British East India Company \[EIC\] in the late 1700s. It remained a patchwork of directly-controlled territory and client kingdoms. Instigated by shifting policy and mistreatment of native soldiers in the EIC's military, the short-lived 1858 rebellion precipitated Parliament's dissolution of the EIC and direct control of the colony. Through the 19th c., transportation and information networks transformed economics and communication in the colony.
+India fell under the control of the British East India Company \[EIC\] in the late 1700s. It remained a patchwork of directly-controlled territory and client kingdoms. Instigated by shifting policy and the EIC's mistreatment of indigenous soldiers, the short-lived 1858 rebellion caused the British government to dissolve the EIC and take control of the colony directly. Through the 19<sup>th</sup> c., new transportation and information networks transformed economics and communications. After the rebellion, European enclaves became increasingly segregated and militarized; While the Crown government pursued information and demographic controls.
 
-R. was born in 1892, to a Tamil Brahmin family in the Madras Presidency (now, Tamil Nadu). His father was a landlord, well-educated and respected for his religious services. Important caveats are required re: Hindu thought, but in the West, we could consider R.'s education both secular and religious. Even while flourishing in rationalist spaces, R. remained interested in Hindu philosophy and mysticism throughout his life.
+R. was born in 1892, to a Tamil Brahmin family in the Madras Presidency. His father was a landlord, well-educated and respected for his religious services. In a Western context, we could consider R.'s education both secular and religious. Even while flourishing in rationalist spaces, R. remained interested in Hindu philosophy and mysticism throughout his life.
 
-This report concludes with a few tangents into Indian anarchist M.P.T. Acharya (1887-1954); Some reflections on my research process, as it mirrors McCarthy (2019); And a fascinating poster display material from Wheeler & Chinn.
+This report concludes with a few tangents into Indian anarchist M.P.T. Acharya (1887-1954); Some reflections on my research process, as it mirrors McCarthy (2019); And a fascinating poster displaying material from Wheeler & Chinn.
 
 The next phase of research will cover scientific and educational developments in England leading up to R.'s arrival in 1924, and the context, broadly, in which he formed the material in _Five Laws_.
 
