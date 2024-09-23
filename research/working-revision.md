@@ -41,21 +41,9 @@ The one-two punch of these 1832 and 1834 Acts turned up the heat on simmering pr
 
 Chartist rhetoric at times explicitly advocated for armed revolution, and occasionally led to direct action like strikes, sabotage, and rioting. The movement ebbed and surged along with the working class' economic fortunes, and "was most active between 1838 and 1848." (National Archives, 2022) Though the Charist movment sputtered out, pressure for male suffrage persisted, until the 1867 Second Reform Act was passed "by an aristocracy largely paralysed with fear at the prospect of an assault on its property and status, and an uprising by the working class." (Heffer, 2022 p. 114) The resulting changes "roughly doubled the electorate in England and Wales from one to two million men," along with a smattering of general districting changes. (UK Parliament, n.d.b)
 
-But paternal classism still ran strong, and as Parliament started into the inevibility of expanding sufferage, a wave of panic about the educational state of the electorate washed over the chamber. The general sentiment was nicely summarized by Scottish writer Thomas Carlyle, who described the Second Reform Act as "the call-in of new supplies of blockheadism, gullibility, bribeability, emenability to beer and balderdash" into the political process. (Heffer, 2022, p. 579) Such a shift, insisted MP Robert Lowe (more politely), meant that public education had "become paramout to every other questions that has been brought before us. From the moment that you entrust the masses with power their education becomes an absolute neccesity." (Heffer, 2022, p. 413)
+But paternal classism still ran strong, and as Parliament started into the inevibility of expanding sufferage, a wave of panic about the educational state of the electorate washed over the chamber. The general sentiment was nicely summarized by Scottish writer Thomas Carlyle, who described the Second Reform Act as "the call-in of new supplies of blockheadism, gullibility, bribeability, emenability to beer and balderdash" into the political process. (Heffer, 2022, p. 579) Such a shift, insisted MP Robert Lowe (more politely), meant that public education had "become paramout to every other questions that has been brought before us. From the moment that you entrust the masses with power their education becomes an absolute neccesity." (Heffer, 2022, p. 413) <note>Lowe is a complex character, now often reviled for his pedagogical insistance on "The Three Rs" at the expense of broader perspectives and his severe resentment of the lower classes.</note>
 
-Thus, a small cadre of ministers and select committees who'd been compiling reports, forming reccomendations, and drafting un-read bills were suddenly pulled from the political hinterlands into the spotlight; The resulting legilsation enabled a nationaled school system and established the Publica Library System.
-
-
-<note>Lowe is a complex character, now often reviled for his pedagogical insistance on "The Three Rs" at the expense of broader perspectives and his severe resentment of the lower classes.</note>
-
-
-
-
-
-
-
-
-
+Thus, a small cadre of ministers and select committees who'd been compiling reports, forming reccomendations, and drafting un-read bills related to education and cultural institutions were suddenly pulled from the political hinterlands into the spotlight. It's from this context that England's public library system emerges.
 
 
 
@@ -72,7 +60,7 @@ Thus, a small cadre of ministers and select committees who'd been compiling repo
 
 ## Education
 
-In the first half of the 19th c., British primary education was in a bad state.<note>Scottland</note> There was scarecly any national education policy or oversight; And with the exception of reformatory and workhouse schools, each school was a privately-run endeavor. In 1855, one MP estimated that only one in eight children attended school. No standards existed curicula, teachers, or administrators; An 1851 survey of school headmasters found them a motley crew of mostly down-on-their-luck tradesmen getting by while they gameplanned the next step. Factories employing children were required to have schools; The level of instruction here was aggressively remedial. (Heffer, 2022, p. 419-421)
+In the first half of the 19th c., British primary education was in a bad state.<note>Scottland</note> There was scarecly any national education policy or oversight; And with the exception of workhouses and reformatories \[youth detention centers in the modern US context \], each school was a privately-run endeavor. In 1855, one MP estimated that only one in eight children attended school. No standards existed for curicula, teachers, or administrators; An 1851 survey of school headmasters found them a motley crew of mostly down-on-their-luck tradesmen getting by while they gameplanned the next step. Factories employing children were required to have schools; The level of instruction here was aggressively remedial. (Heffer, 2022, p. 419-421)
 
 <note>
 Scottland: Interestingly, this state of affairs applied mainly to England and Wales; Scottland had actually gotten its act together on Education back in the 17th c., with a robust system of public education from primary school through college. (Heffer, 2022, p. 413)</note>
@@ -91,6 +79,18 @@ Reforms to public education at the primary level arrived with the 1870 Education
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### Libraries
 
 From the outset, Parliament saw education as extending beyond the formal classroom. Through the 1930s, parliamentary concern about the state of the lower classes led to a series of commissions aiming to figure out how to discourage drinking and encourage pursuits like physical fitness and cultural edification. Though the reccomendations therefrom "produced few tangible results, one recurring theme emerged in the investigations--a belief in the maniforld virtues of education." (Fletcher, 1996)
@@ -100,6 +100,17 @@ Prior to the mid-1800s, the expense of printed material meant library subscripti
 William Ewart headed the 1849 Select Committee on Libraries, and used his earlier 1845 Museums Act as a stepping stone for the Public Libraries and Museums Act of 1850. This first act was focused primarily on land acquisition; Two additional Public Library Acts in 1855 and 1866 rounded out the resources needed to fully implement a national library system. And though the rhetoric around uplifting the poor and working classes proved historically stickier, Libraries could also serve as a venue for civic pride and beautification for the upper classes; Particularly in well-to-do outlying cities, who industrialization had bolstered already established economies. (Fletcher, 1996) 
 
 Sequentially, these 1850, 1855 and 1866 Acts loosened requirements to apply for State library funds: In a city's population, from 10,000 residents, to 5,000, to no requirements at all; And for local measure passage, from a two-thirds to a simple majority. Even so, these proposals weren't always a shoe-in: Sufferage at this point was still limited to the upper classes, whose incentives didn't always align with the conceptual aim of the library program. As Fletcher (1996) notes, "for much of the ninteenth century central government was not the focal point of educational activity." These government actions were merely one of many education-promoting and -providing efforts being explored in, e.g., "Anglican and Voluntary groups;" and the significant historiographic focus on legislation is perhaps due to a backwards projection of present-day educational frameworks. (Fletcher, 1996)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
