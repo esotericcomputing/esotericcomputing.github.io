@@ -12,9 +12,9 @@ Though the ownership classes reaped the benefits of this new working environment
 
 Consignment to the workhouse was often the beginning of a torturous bodily attrition, as the meals provided could easily fall below caloric replacement, given the demands of the labor. A recipe for "Mrs. Beeton's Useful Soup for Benevolent Purposes calls for 4 pounds of beef trimmings, 4 pounds of pearl barley, about 8 pounds of onions and a sprinkling of herbs to make ten gallons of soup." (Goodman, 2013, p. 168) The paucity of food in general for the lower classes was a significant problem in the early 19th c.; Compared to skeletons from the Medieval period, Victorians were typically two inches shorter. (Goodman, 2013, p. 170) The 1845 Potato Blight exacerbated the food shortage in England, and "by most estimates" killed over a million in Ireland, where potatoes "formed well over 80 per cent of the people's total diet". (Goodman, 2013, p.164) 
 
-But staying out of the workhouse wasn't easy either. Employers hired and fired as needed, and day-work was common, meaning workers bore the brunt of market fluctuations and could no longer plan for a stable income. To make ends meet, most working-class families expected their children would be earning a wage by age ten, and in extreme cases as early as five. This was the case in both rural and urban areas, and in all lines of work (agriculture, factories, offices, etc). Legislation eventually begin to curb child labor's most visible transgressions, particularly in the mines, and textile mills where "from 1835 up to 1850, half of all the workers... were under the age of 18." Even so, a blind eye was often turned to restrictions, and child labor was common through the end of the century. (Goodman, 2013, p. 197)
+But staying out of the workhouse wasn't easy either. Employers hired and fired as needed, and day-work was common, meaning workers bore the brunt of market fluctuations and could no longer plan for a stable income. To make ends meet, most working-class families expected their children would be earning a wage by age ten, and in extreme cases as early as five. This was the case in both rural and urban areas, and in all lines of work (agriculture, factories, offices, etc). Legislation eventually began to curb child labor's most visible transgressions, particularly in the mines, and textile mills where "from 1835 up to 1850, half of all the workers... were under the age of 18." Even so, a blind eye was often turned to restrictions by owners and workers alike, and child labor was common through the end of the century. (Goodman, 2013, p. 197)
 
-Both children and adults navigated nightmarishly unsafe work environments: Factories were packed with unguarded machinery that could easily maim or kill; Agricultural machinery was typically pulled by livestock that could spook and bolt; Dangerous chemicals were used with no safeguards; etc etc etc etc. Workplace safety legislation arrived piecemeal throughout the century, often in forms we'd now consider parodically baseline. (Goodman, 2013, p.197)
+Both children and adults navigated nightmarishly unsafe work environments: Factories were packed with unguarded machinery that could easily maim or kill; Agricultural machinery was typically pulled by livestock that could spook and bolt; Dangerous chemicals were used with no safeguards; etc etc etc. Workplace safety legislation arrived piecemeal throughout the century, often in forms we'd now consider parodically baseline. (Goodman, 2013, p.197)
 
 
 
@@ -23,20 +23,20 @@ Both children and adults navigated nightmarishly unsafe work environments: Facto
 
 ### Chartism and the 1867 Second Reform Act
 
-Recall the makeup of Britain's government: No one to whom the 1834 New Poor Law applied had any influence in the legislative process. Two years prior, the government had made its first halting steps toward broadening democratic participation with the 1832 Reform Act (which itself was hotly contested in Parliament). The Act included reapportionment of MPs and the creation of new constituencies; But enfranchisement was broadened only a smidgen, to include "small landowners, tenant farmers, and shopkeepers," and "all \[male\] householders who paid a yearly rental of £10 or more", leaving "five out of six working men without a vote." (UK Parliament, n.d.a; Heffer, 2022, p. 114)
+Recall the makeup of Britain's government: No one to whom the 1834 New Poor Law applied had any influence in the legislative process. Two years prior, the government made its first halting steps toward broadening democratic participation with the 1832 Reform Act (which itself was hotly contested in Parliament). The Act included reapportionment of MPs and the creation of new constituencies; But enfranchisement was broadened only a smidgen, to include "small landowners, tenant farmers, and shopkeepers," and "all \[male\] householders who paid a yearly rental of £10 or more", leaving "five out of six working men without a vote." (UK Parliament, n.d.a; Heffer, 2022, p. 114)
 
 The one-two punch of these 1832 and 1834 Acts turned up the heat on simmering progressive movements, most notably the [Radicals](https://en.wikipedia.org/wiki/Radicals_(UK)). A few rounds of obligatory leftist internecine bickering led to the emergence of the Chartism movement in 1836. (National Archives, 2022) Chartism takes its name from the People's Charter, "which listed six main aims," and was presented to Parliament thrice, in 1839, 1842, and 1848:
 
-- a vote for all men (over 21)
-- secret ballot
-- no property qualification to become an MP
-- payment for MPs
-- electoral districts of equal size
-- annual elections for Parliament (National Archives, 2022)
+- A vote for all men (over 21)
+- Secret ballots
+- No property qualification to become an MP
+- Payment for MPs
+- Electoral districts of equal size
+- Annual elections for Parliament (National Archives, 2022)
 
 Chartist rhetoric at times explicitly advocated for revolution, and occasionally led to direct action like strikes, sabotage, and rioting. The movement ebbed and flowed along with the working class' economic fortunes, and "was most active between 1838 and 1848." (National Archives, 2022) Though the Chartist movement sputtered out, pressure for male suffrage persisted and intensified, until the 1867 Second Reform Act was finally passed "by an aristocracy largely paralyzed with fear at the prospect of an assault on its property and status, and an uprising by the working class." (Heffer, 2022 p. 114) The resulting changes "roughly doubled the electorate in England and Wales from one to two million men." (UK Parliament, n.d.b)
 
-But paternal classism still ran strong, and as Parliament slowly realized the inevitability of expanding suffrage in the 1850s, a wave of panic about the educational state of the electorate washed over the chamber. The general sentiment was (impolitely) summarized by Scottish writer Thomas Carlyle, who described the 1867 Second Reform Act as "the call-in of new supplies of blockheadism, gullibility, bribeability, amenability to beer and balderdash" into the political process. (Heffer, 2022, p. 579) Such a shift, (more politely) insisted MP Robert Lowe, meant that public education had "become paramount to every other questions that has been brought before us. From the moment that you entrust the masses with power their education becomes an absolute necessity."<sup>2</sup> (Heffer, 2022, p. 413)
+But paternal classism still ran strong, and as Parliament slowly realized the inevitability of expanding suffrage in the 1850s, a wave of panic about the educational state of the electorate washed over the chambers. The general sentiment was (impolitely) summarized by Scottish writer Thomas Carlyle, who described the 1867 Second Reform Act as "the call-in of new supplies of blockheadism, gullibility, bribeability, amenability to beer and balderdash" into the political process. (Heffer, 2022, p. 579) Such a shift, (more politely) insisted MP Robert Lowe, meant that public education had "become paramount to every other questions that has been brought before us. From the moment that you entrust the masses with power their education becomes an absolute necessity."<sup>2</sup> (Heffer, 2022, p. 413)
 
 Thus, a small cadre of ministers and select committees who'd been compiling reports, forming recommendations, and drafting un-read bills related to education and cultural institutions were suddenly ushered from the political hinterlands into the spotlight. It's from this context that England's public library system emerges.
 
@@ -220,28 +220,28 @@ But then a funny thing happened -- or rather, _didn't_ happen: "For anarchists, 
 
 ## Notes
 
-1. The city's proliferation of Plane trees and Rhododendrons are a vestige of this period.
+1. London's proliferation of Plane trees and Rhododendrons are a vestige of this period.
 
 2. Lowe is a complex character, now often reviled for his pedagogical insistence on "The Three Rs" at the expense of broader perspectives and his severe resentment of the lower classes.
 
 3. Interestingly, this state of affairs applied mainly to England and Wales; Scotland had actually gotten its act together on Education back in the 17th c., with a robust system of public education from primary school through college. (Heffer, 2022, p. 413)
 
-4. This is the linguistic origin of why public universities in England are viewed as more prestigious than private ones.
+4. This is the linguistic origin of why "public" universities in England are viewed as more prestigious than "private" ones.
 
-5. One notable early example of urban enthusiasm for libraries was in Manchester, (founded in 1852) which was thoroughly covered in the press, and maintains a bountiful archive of its founding materials. (Hewitt, 2000) Manchester had earned the nickname "shock city" for its rapid industrialization, and was the center of England's burgeoning cotton industry. Its deep-pocketed upper class heavily subsidized the library's construction and collection; and the library was immediately and continually used by the city's working class. (Hewitt, 2000)
+5. One notable early example of urban enthusiasm for libraries was in Manchester, (founded in 1852) which was thoroughly covered in the press, and maintains a bountiful archive of its founding materials. Manchester had earned the nickname "shock city" for its rapid industrialization, and was the center of England's burgeoning cotton industry. Its deep-pocketed upper class heavily subsidized the library's construction and collection; and the library was immediately and continually used by the city's working class. (Hewitt, 2000)
 
 6. Peatling's work is a vociferous argument for the integration of more identity politics into library history; Two decades later, most of what she's arguing for seems common practice. Peatling's work is now somewhat dated; In the intervening two decades, the type of identity politics and intersectional theories of power she's advocating for have become commonplace in cultural research. Her discussion of then-current work into how "contradictory discourses can emanate even from national museums" is, like, table-stakes now for curators responsible for writing exhibits' explanatory text.
 
 7. For two modern examples, we might ask where books about Taiwan are shelved in Chinese or Taiwanese libraries; or whether indigenous American histories are collected into their own category or shelved alongside their United States counterparts.
 
-8. The three theories of national identity formation Pealing (2004) considers are Perennialist, Ethnosymbolist, and Modernist: 
-- Peatling rejects the "perennialist" or "primordialst" theory, that considers the formation of national identity to predate any formal State-making. 
-- Ethnosymbolism: "What gives nationalism its power are the myths, memories, traditions, and symbols of ethnic heritages and the ways in which a popular _living past_ has been, and can be, rediscovered and reinterpreted by modern nationalist intelligentsias."
-- "Modernist" : National identities can be explicitly constructed; e.g. State-theorized depictions of Soviet identity following the Russian Revolution. "Nations are thus seen to be 'constructed essentially from above'." 
+8. The three theories of national identity formation Pealing (2004) considers are : 
+- "Perennialist" or "primordialst": Considers the formation of national identity to predate any formal State-making.
+- "Ethnosymbolist": "What gives nationalism its power are the myths, memories, traditions, and symbols of ethnic heritages and the ways in which a popular _living past_ has been, and can be, rediscovered and reinterpreted by modern nationalist intelligentsias."
+- "Modernist": National identities can be explicitly constructed; e.g. State-theorized depictions of Soviet identity following the Russian Revolution. "Nations are thus seen to be 'constructed essentially from above'." 
 
 9. From Peatling's perspective, national identity is a zero-sum game; These habits, presentations, and concepts "occupy space which might have been filled by alternative formations" creating "images of 'community' and of 'us' and 'them', \[thus affecting\] individual and collective thought and action in a way which must be regarded as political." (p. 36) ...But _must it_? Could it not be regarded as artistic? Spiritual? Esoteric? Romantic? Invoking the charged rhetoric of "'us' and 'them'", Peatling seems to place National Identity inexorably at odds with groups outside one's own; when there's no reason identity formation couldn't be a prelude to cooperation.
 
-10. In 2002, LAUK merged with the Institute of Information Sciences to form CLIP, the Chartered Institute of Library and Information Professionals: https://www.cilip.org.uk/
+10. In 2002, LAUK merged with the Institute of Information Sciences to form CLIP, the Chartered Institute of Library and Information Professionals: [https://www.cilip.org.uk/](https://www.cilip.org.uk/)
 
 
 ## References
@@ -282,10 +282,9 @@ At the Mechanics Institute today, I showed two prospective members to the Chess 
 
 "Government and co-operation are in all things the Laws of Life; Anarchy and competition the Laws of Death." - John Ruskin (Heffer, 2022, p. 615)
 
-Mentions Ruskin's "The Crown of Wild Olive" as a foundational text in British socialism: https://www.gutenberg.org/cache/epub/26716/pg26716-images.html
+Mentions Ruskin's "The Crown of Wild Olive" as a foundational text in British socialism: [https://www.gutenberg.org/cache/epub/26716/pg26716-images.html](https://www.gutenberg.org/cache/epub/26716/pg26716-images.html)
 
 "Justice Jackson \[Alied prosecutor for the Nurnberg trails\] said, 'What makes this inquest significant is that these prisoners represent sinister influences that will lurk in the world long after their bodies have returned to dust. We will show them to be living symbols of racial hatred, terrorism, and violence, and of the arrogance and cruelty of power; They are symbols of fierce nationalism, and militarism, and intrigue and war-making.' The very same problems we deal with today. The world has not changed as much as the dreamers who brought us the Nurnberg trial had hoped." - Eli Rosenbaum, _Filmmakers for the Prosecution_ (2021)
 
 The [UK Parliament website](https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/) has ASCII art of their building in the source code!!
-
 
