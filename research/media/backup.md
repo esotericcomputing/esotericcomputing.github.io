@@ -1,8 +1,9 @@
-# 2024-09-28 - Context Part 2 : England
+# Working - Context Part 2 : England 1800-1924
+
 
 ## Executive Summary
 
-At the outset of the 19th c., England was rapidly industrializing and urbanizing, leading to worsening conditions for the working and lower class; Political participation was available only to the peerage and wealthy landholders. The ill-considered 1834 New Poor Law spurred increasing political agitation, and in the decade leading up to the 1867 Second Reform Act, Parliament enacted several public education reforms in hopes of having a more educated electorate as suffrage expanded.
+At the outset of the 19th c., England was rapidly industrializing and urbanizing, leading to worsening conditions for the working and lower class; Suffrage and political participation was available only to the peerage and wealthy landholders. The ill-considered 1834 New Poor Law spurred increasing political agitation, and in the decade leading up to the 1867 Second Reform Act, Parliament enacted several public education reforms in hopes of having a more educated electorate as suffrage expanded.
 
 The British public library system was enabled by these educational reforms; but by midcentury, the price of print had declined enough that private libraries were also common and accessible for working-class patrons. The 1850, ’55, and ’66 Library and Museum Acts enabled municipalities to create local libraries funded by a "penny rate" tax. The makeup of public libraries administrations, and particulars of their collection development and exhibition designs raise worthwhile questions about "national identity formation" and paternalist classism.
 
@@ -12,9 +13,7 @@ Ranganathan's 1924 arrival in England coincided with a period of enthusiasm in t
 
 
 
-
-
-## England Hatches into the Modern Age
+## England Hatches into the Modern Age: Industrialization, Urbanization, and the 1834 New Poor Law
 
 The shock of the industrial revolution was coursing through England at the opening of the 19th century. In 1801, 44% of the population lived in cities; By 1911, the population had roughly quadrupled and this share was up to 89%. (Goodman, 2013, p. 200) The swiftness of industrialization and urbanization created a nexus of problems eating away at the living conditions of the working and lower classes: Food shortages; Dense, chaotic, unsanitary cities; Unpredictable and declining incomes from unregulated industry and automation; And worsening health from hazardous factory work, unregulated medicines (read: widespread opiate use), and air pollution so severe it "could be withstood only by the hardiest \[plant\] species."<sup>1</sup> (Goodman, 2013, p. 187)  "Crime had risen sevenfold in England and Wales between 1805 and 1842, despite savage punishments. Its principal victims were the lower classes." Working men took to drink to endure their environment: "Between 1810 and 1840 consumption of gin rose from a gallon per head per year to a gallon and a half." (Heffer, 2022 p. 113)
 
