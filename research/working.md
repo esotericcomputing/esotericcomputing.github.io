@@ -1,12 +1,326 @@
 # Working - The Five Laws, 
 
 
+Law | Chpts. | Pages | Total
+- | -| - | -
+1 | 1 | 1 - 73 | 73
+2 | 2, 3, 4 | 74 - 298 | 224
+3 | 5 | 299 - 336 | 37
+4 | 6 | 337 - 381 | 44
+5 | 7 | 382 - 416 | 34
+
+
+
+
+
+
+In some ways, it is a catalog of optimism; He is reporting first-hand on the development of library practices in the context of what's worked and what hasn't and bringing this experiential knowledge back to an environment whose development is two or three decades previous. 
+
 
 ## Front Matter
 
 _The Five Laws of Library Science_ (Hereafter FL.) opens with a hefy chunk of front matter, but most interesting is the five-part introduction by W. C. Berwick Sayers (Chief librarian, Croydon; Lecturer in the University of London School of Librarianship; Examiner in Library Organization to the Library Association (see Context 2: England)).
 
 Sayers' introduction involves some occultist undercurrents -- hermeticism, specifically -- if you know where to look. In particular, it frames the Five Laws as _revealed_ rather than _constructed_ knowledge, with a lineage extending to (who else?) "the Pharaohs," whose famed papyrus catalogs are "the wonder of modern librarians who have considered them." Thus, R.'s Five Laws have "existed in embryo form in the Assyrian libraries." 
+
+
+
+
+## Ch. 1: The First Rule: BOOKS ARE FOR USE!
+
+BOOKS ARE FOR USE responds to the tendency of early libraries to prioritize preservation. The scarcity and expense of printed material in the medieval period led to setups like chained books, closed stacks, etc. The vestiges of this history were still in evidence, and sometimes in subtle ways:
+
+- Building libraries in out-of-the-way locations;
+- Limiting their open hours to minimize patron use;
+- Designing their structures for storage rather than human navigation and comfort;
+- Staffing libraries with unenthusiastic (or in the case of schools), stern employees.
+
+
+#### DS:
+By the mid-20th c., most of the ideas in this chapter had been thoroughly embraced by physical libraries; but the aggressive weeding of the post-internet led to a situation where more room was available for comfort, at the expense of making book available FOR USE. But the more relevant aspect for my personal interests are how the state of digital librarianship -- academic journals in particular -- is still much more of a "closed" environment, not only in the paywall sense, but also the inhospitability of the digital spaces in which users encounter the material. Far from inviting, library websites often have the feel of engineering software; or when they elect to go for more "comfortable furniture" end up over-correcting into a form of generic minimalism that renders the visitor experience uninspiring.
+
+But, of course in the dumber money sense as well -- as R. puts it "The chains were first removed and sold as old iron; but access was limited to the chosen few. <ins>Then those that could pay were allowed the use of the books.</ins> Then came the furterh step of making them free to all..." (p.6, emphasis mine) This is the stage where academic journals currently are; though the Open Access movement is working on it.
+
+
+### Library Location
+
+The upshot of this section is basically "go where the people are if you want people to use books." R. makes the comparison of food sellers (and vendors of Betel nuts, a mild-grade stimulant) locating outside popular hotels. Further discussion surrounds the location of libraries on campus colleges and primary & secondary schools.
+
+R. praises putting libraries in heavily-frequented but unusual locations; the prime example he gives is a library in Lisbon located in a popular outdoor garden. A small collection of about a thousand books is overseen by a single librarian; Patrons read their books under the shade of trees in the park.
+
+
+### Library Hours
+
+The seemingly simple outcome here is "Make sure your library is open when the most people can use it." Interestingly, he cites a small college where each student was given a key to the library, so they might come-and-go as they pleased.
+
+
+### Library Furniture
+
+This section involves wacky dialog section between two siblings, named "The Rule of Least Cost" (Costie) and "The Rule of Least Space" (Spacie) and "The First Rule." Here, the First Rule convinces of appropriate human-oriented design factors; for example the need for library stacks no taller than 6 or 7 feet, such that elderly or bigger patrons don't have to chance using ladders; Spacing the stacks far enough apart such that two patrons can walk abreast of one another; And providing comfy chairs and good lighting in order to entice people to stay at the library and USE THE BOOKS.
+
+One idea I particularly liked was setting aside a small "retiring room" for academics of good standing who are using the library all day, so they can take a quick nap if needed.
+
+There's an interesting tangent in the dialog where R. makes the case that a more informed populace will produce a better national economy; and in the "post-League of Nations" world, a better global society.
+
+### Library Staff
+
+I had mixed feeling about this section. Essentially, R. is advocating for trained library professionals, serious and enthusiastic about their work, to be placed in Library work. However, he does this by running down a list of ill-suited library staff; and these sections come off as kind of classist, or at the last, impolite. 
+
+Beautiful run-on sentence:
+
+> In some Western countries, the Library profession has long ago passed the stage of infancy and reached the ripe ago of throwing out several branches, which show a tendency to develop such independence and individuality, that, ere long, we shall have several semi-independent library professions, spreading round their primitive stem, even as the pillar roots shooting forth profusely from the branches of the giant banyan-tree appear to be outside of the three but are still of it, giving shelter to thousands of birds.
+
+The section on salaries includes some interesting Hindu quotes, and basically wraps up with "Money makes the world go round lol?" R. identifies bad salaries as being dangerous to the library movement writ large; leading to unenthusiastic practitioners; high turnover rates, leading to the loss of accrued knowledge and experience; And the social milleiu of rich people being taken more seriously that poor people -- an important asset when a librarian must act in an administrative role with City or College overseers who control the purse strings.
+
+This section includes a lengthy footnote on a recent archeological find near present-day Wadi; The ruins of a large college from the 1050s AD with plentiful inscriptions. Here, we see the college employed six librarians, and they were accorded similar compensation as professors.
+
+### Responsibility of the Lib. staff; Lib. Staff & Readers; Lib. Staff & Psychology; Lib. Staff & Social Work
+
+The remainder of this chapter relates to customer service in the library. As an autistic man who found an unexpected joy in customer service (performance / masking), I was pleased to see good behavioral guidelines represented (including on politeness -- R. says librarians (mostly male at this point!) should aspire to be thought of as "bewitching" in their pleasantness), as well as some discussion about the variety and vagaries of patron behavior, and why they may not respond to offers for help as you might expect. That is "Knowledge of books is only half the battle."
+
+The section on personal service contains an absolute banger paragraph, discussion the then-current profusion of works on Relativity, and how you need a broad understanding of (1) the books' varied writing styles and (2) what exactly the patron needs in the topic in order to provide the correct book on the topic. The following section I'll reprint in full:
+
+> It is this wilderness of print, confusing in its magnitude even to those who deal with it constantly, on the one hand, and the equally bewildering variety of the tastes and the capacity of the readers on the other hand, that makes the _personal service_ of the Library Staff indispensable to affect contact between the right reader in the right book at the right time and in the right manner
+
+The final section of the chapter lays out Library science as a calling for the betterment of all mankind.
+
+
+
+## Ch. 2: The Second Law: Every Person His or Her Book!
+
+
+### Introduction
+
+Some interesting items here: R. metaphorically invokes "revolution" several times -- but one wonders what the concrete implications of this may be, from an author writing for his colonially subjugated audience?
+
+At this point, R.'s view of the USE for which BOOKS ARE is somewhat narrow by today's standards: He still focuses heavily on Education. However, one enticing quote is that the 2nd Law "brings about the culture of new species of libraries." (75) Ergo; new reader needs (e.g. the miracle of new thought) may bring about a "new species" to address this need.
+
+### The Classes and the Masses
+
+This section is where the rubber meets the road on matters of classicism. R.'s brief history of Public Education with Aristotle's physiognomic justification for slavery -- a bold, revealing choice! This history winds through the history of the upper classes denying the lower classes education as a tool of class warfare; including some discussion of Ewart's first (failed) public education bills, and calling out Marquis of Westminster by name for refusing to donate to the Mechanics Institute for fear that education would incite the poor to rebel. In an excellent case of the Devil quoting Scripture, R. excerpts Adam Smith's defense of universal education. None-the-less,
+
+> The second law of library science has triumphantly planted its democratic flag in many a land having blown to pieces the black-coated barrier of exclusiveness and snobbery. (p. 89)
+
+India, however, was less successful creating an accessible library environment for the masses; and R. calls out his English-Educated upper-class peers in this particularly spicy passage:
+
+> This tragic triumph of India in her fight against the intrusion of the Second Law... is not a little due to the almost criminal apathy and neglect of duty on the part of her better placed "English-Educated" sons. They have developed an abnormal short-sight which disables them from seeing beyond their nose, at any rate beyond their privileged circle. They glibly speak of India, and her millions, when they mean only the two percent of her millions who can lisp in English. (p. 90)
+
+Side Note: There's an interesting anecdote in this section about a Grand Rapids, MI library who debunked a disinformation campaign seeking to prevent the implementation of a water filtration system, which was eventually implemented and lowered incidences of Typhoid fever in the city.
+
+
+### The Men and the Women
+
+Once again beginning with a damning catalog of notable Western thinkers' backward view of women (e.g. Rousseau), R. discusses how the fight for gender equiality has progressed towards greater equality, and advocates for the most "radical" interpretation of this view whereby a woman need not "pay her obligation to society, biologically" (e.g. having children) but instead embark upon a fullfilling career as she sees fit. R. debunks various still-cited physiognomic theories on women's intellectual inferiority (Sex differences in cranial capacity; Intellectual variability during a woman's menstural cycle). Quoting the Indian Statutory Commission's Interem Report, "The education of women, particularly in the higher stages, will make available to the country a wealth of capacity that is, now, largely wasted through lack of opportunity."
+
+Along with providing to women access to _all_ material, R. makes the further case that even when a woman who chooses to be a homemaker, library holdings with the latest information on (e.g.) child healthcare or appliance repair can naught but improve the family's quality of life and the ease her homemaking labor. 
+
+### The City Folk and the Country Folk
+
+R. discusses the habbit of Urbanites of denegrating their Rural counterparts (going even so far back as tracing a sanskrit epithet meaning "uneducated" to its root word of "villiager") -- A division still verymuch a thing today; with the important caveat that the federal US political framework is designed specifically to empower rural areas over urban areas.
+
+> The fact is that, even at the very early stage, the increasing complexities and the grave menaces attendant on the civic problems of a crowded city made out a strong plea for "education for all" and "books for all" in the case of the city folk. That inexorable mistress, necessity, however, did not, for long, put a similar pressure in regard to the country folk. What are the consequences of ignorance and lack of books are immediate in an urban area, they are latent and become visible only very late in rural areas. (p. 111)
+
+As an asside, I might also add that the above quote is fascinating as it regards increasingly poor information literacy, where social media has balooned on VC cash alongside public education budgets being starved; leading to 
+
+Agriculture was rapidly industrializing along with the rest of the world, and good information on emerging science would be critial for agricultural communities. For India in particular, its extractive colonial economy also created a dyanmic where agricultural commodities were increasingly marketed overseas; as such, up-to-date information on global trade was becoming critical.
+
+
+
+## Ch. 3: The Second Law and its _Digivaja_
+
+_Digivaja_: Sanskrit, "conquest of all directions"; a "triumphal procession" of a ruler through his posessions; "universal conquest" -- [see here](https://www.wisdomlib.org/definition/digvijaya).
+
+This extensive chapter is enlightening and impressively-researched, but somewhat less useful for my line of research, ergo I will summarize it briefly. Here, R. takes on a global circumnavigation, reporting the status and progression of library systems in the late 19th and early 20th c., highlighting paralells and contrasts to the Madras and broader Indian system where they appear.
+
+His highest marks go to Finnland, who at the time (and I assume still does) had an astounding literacy rate of 99.3% among it's population aged 15 and above. Finnland's cultural embrace of education worked hand-in-hand with its libraries, and was bolstered by the country's independence, which resulted in a flurry of Finnish-language publishing. Also notable is Czeloslovakia, newly-created along with Yugoslavia and Hungary from the breakup of the Austro-Hungarian Empire after the Great War. Hawaii (Then its own sovereign State) also receives enthusiasitic praise for implementing an excellent traveling service, sending books to remote island locations, and catering to a significantly polyglot citizenry.
+
+Probably the main takeaway for me was the sections on Carnegie's impact on the library: The sheer amount of money he put into libraries in the U.S. and later the U.K. enabled these systems to expand much more rapidly than comprable countries without such an enthusiastic private benefactor. This is something modern readers are perhaps unacustomed to consider, now that we live in an age where Library systems are so fully enmeshed with the government. In R.'s telling, one of the great benefits of Carnegie's full-throttle library establishment was that governments previously reluctant to fund or administer library systems saw firsthand the benefits of a working system, and only then became comfortable taking the reins.
+
+
+## Ch. 4: The Second Law and its Implications
+
+Staying with the Second Law for another nuts-and-bolts chapter; Here, we find a robust discussion of the organizational requirements run a public library system, including a draft bill to establish such a system (in the Madras presidency, specifically). Once again, I'll provide only a brief overview here, as this chapter is less relevant for my work. With that said, I do intend to revisit the draft legislation for a deeper consideration in the context of anarchist thinking; e.g. the ways in which it estbalishes a legal hierarchy, and its provisions for the devolution of authority where appropriate.
+
+The structure of this chapter is largely focused on the differing obligations of four entities, presupposed in hierarchical order:
+
+1. The State: Finace, legislation, and co-ordination
+2. The Library Authority: Staffing and Book selection (including a broad discussion of interlibrary loan)
+3. Library Staff: Shelf-arrangement, catalogging, and reference work
+4. The Reader: Obeying the rules, and broadly, using the library in a way that benefits the greatest number of fellow-patrons.
+
+A through-line in R.'s description of these obligations is an emphesis on collectivism; Written most causally for the reader (don't hog the latest issue of an academic journal, there's other researchers who need to use it!), and most formally for the State (though unpopular, taxes levvied for libraries have a good ROI, particularly in rural areas where new agricultural techniques can be learned, hence boosting crop yields, ergo generating taxable revenue).
+
+### Notable quotes
+
+On the importance of library staff as a conduit between the state-funded library resources and the reader: "There is a Tamil proper which says even though the desired boons may be granted by God, they may be held up by the ministering priest." (p. 283)
+
+On the importance of book selection:
+
+> As a matter of fact, it may even be said that it is not so much the size of the library as to the choice of its collections that the Second Law looks for the fulfillment of its message. It would insist that the essentially limited nature of the finance of the library makes it imperative that as much knowledge and judgment are required in the choice of books "as in the choice of a house or a wife or a wireless valve or a sparking plug. Roomfulls of books may be a mere accumulation, whilst a simple shelfful may constitute a library, the volumes having been selected and placed side-by-side to serve a definite purpose… A good general library might be regarded as a grouping of such special collections, properly coordinated so as to strengthen and amplify each other without wasteful overlapping". (p. 280, quoting (Baker, E. A., _The Uses of Libraries_))
+
+
+
+
+### Ch. 5: The Third Law: Every Book Its Reader
+
+Here at last we arrive at what I consider the meatiest topic of my work: Every Book Its Reader. In the context of academic journals in particular, the increasing uncitedness indicates an increasing failure in this regard. In the following subsections, R. covers what we now refer to as discovery ___ and TK TK
+
+### The Open Access System
+
+This is not modern "open access;" R. is referring here to allowing patrons to browse the shelves, rather than a closed system where a user requests a book and a clerk retrieves it. Here we find a few personal annecdotes on the value of serendipitous discovery, and the value of the browsing process in refining a research query: "It is a matter of common experience that the majority of readers do not know their requirements and that their interests take a definite shape only after seeing and handling a well arranged collection of books." (p. 302)
+
+
+### Shelf Arrangement
+
+"Arrangement by size or (except in literature) by the alphabetic order of the auhtor's name is as arbitraty as arrangement by the color of the cover." (p. 304) R.'s proposal is as intuitive as it is uninteresting: Subject matter groupings. But I propose reading the above quotation in a slightly different light: Subject matter is just another arbitrary arrangement.
+
+R. suggests a "recent additions" shelf, as well as encouraging "novelty" by occasionally re-organizing shelves. I personally love this second suggestions, and R.'s CCS lends itself very well to the strategy. However, in the realm of digital interfaces, one might make the argument that we're now encountering a somewhat opposite problem, whereby postcoordinated systems present _exclusively novelty_ -- i.e., dynamically assembled lists don't provide the opportunity for a reader to, by repeated examination, become familiar with the contents of a section by landmarks (e.g.) visual (certain notable colors and dimensions of spines) or content-related (particular books they're already familiar with).
+
+Finally, R. considers the physical dimension of a shelf; Suggesting his personal experiments with book placement indicate books on the lowest and highest shelves are less-frequently used. (My own experience at the Prelinger Library is similar; The fantastic section on sleep and dreams, at the top of Stack 5, are generally underutilized.) I'm still mulling over how this may be adapted to a digital system.
+
+
+
+
+### Catalogue Entries
+
+Two main ideas here, of which the first is most interesting to me. R. gives an annecdote of an experienced researcher who spent a while scouring the shelves for a book on his chosen topic, then asked the clerk to see the catalog cards. Here, in the card-space, he came across what appeared to be exactly what he was looking for; finding the books were actually very small monographs he'd overlooked during his shelf-scouring. The problem in digital systems is perhaps the opposite; but this story highlights how _different_ material looks when presented in a catalog form.
+
+The second idea is the benegit of cross-referencing in catalogs (again, we can see the CCS taking shape in R.'s thinking). He relays several stories of long-forgotten volumes thrust into popularity by new cross-reference cards added for their contents (essay collections in particular). He also describes the value of "series" headings, using an example similar to the Oxford VSIs. Here in the modern age, we have an interesting phenomenon of user-created lists in (e.g.) IMDB or Letterboxed, which may be usefull in a similar regard. (Particularly the meme lists in Letterbox, which often group together wildly disparate movies based on a minor, inconsequential similarity.)
+
+
+
+### Reference Work
+
+This two page sub-section contains perhaps the clearest seeds of the current problem with digital systems. Here, we have a full-throated argument for the human experience of librarianship, which after the introduction of digital systems, has progressively been offloaded to software -- but as R. notes,
+
+> The mechanical organization of a library – however desirable – can never be carried to the point of dispensing with personal service. <ins>The requirement of the Third Law defies and transcends machinery</ins>. \[...\] The staff on Reference duty have exceptional opportunities to mingle with the passing throng of readers. This direct contact with the readers brings with it opportunities to observe their tastes and ones, their actions and reactions in their likes and dislikes. \[...\] He knows his community and is familiar with its <ins>mind, spirit, and dominant interests</ins>. He seeks to have his finger on the pulse of his public and is ever on the wait for an opportunity to find a reader for every book. <ins>In the hands of a competent Reference Librarian, a library is like a kaleidoscope. His skills consist in turning its facets in such a way that they can all be seen and that each facet may attract those for whom it has interest</ins>. (p. 312; Significant glossing and emphasis mine.)
+
+Here we must pause and ask ourselves if expediency and financial limits have caused digital librarians to substitute "mechanical" strategies (Data analytics; user / web tracking; altmetrics) for human strategies. Is it possible for Google Analytics to transmit a reader's <ins>spirit</ins>? 
+
+Or, more generously, if the human strategies have migrated "up a level" to decision-making concerning the design of the interface itself, as a financially-workable substitute for knowing a library's users?
+
+While hosting at the Prelinger, I was commonly asked what types of people typically come in. Over time, I came up with the following synopsis:
+
+> Our patrons typically come from two fields crossing into one another: They're often artists whose use of research methods is nudging them into the world of academia, or academics whose research has gone leftfield to the point where it's nudging into art-making. We happily support the middle-ground, and facilitate, when possible, crosstalk between patrons to further mix these modes of inquiry.
+
+
+
+
+### The opening of popular departments
+
+Concerns the value of magazine and newspaper rooms as a gateway drug to the library propper. R. suggests librarians regularly interface with the looky-loos therein, and suggest areas of the stacks they might find valuable.
+
+
+### Publicity
+
+"Surprise is continually expressed when the public discovers the width of \[The Library's\] service and the catholicity \[ed: broadness\] of its interests." (p. 316) I'm often surprised at how few people are aware of SFPL's streaming services (Kanopy, Hoopla, Bay Beats) and fantastically broad interlibrary loan reach. R. considers this a red flag, indicating the library needs to do more to publicize its services.
+
+R. discusses stratgies: partnering with local newspapers (lol [remember when we had those](https://www.medill.northwestern.edu/news/2023/more-than-half-of-us-counties-have-no-access-or-very-limited-access-to-local-news.html)?); DIY priting promotions; Multi-library publications; Staging exhibitions, lectures, special events, posters, tchotchkies, etc. etc. etc.
+
+
+### Extension Work
+
+Discusses activities outside librarianship-qua-librarianship; efforts to cast the library as a place to go for regular social and recreational events (music performances, etc); thereby exposing non-patrons to the space and its holdings. R. suggests literacy classes would be beneficial (the modern equivalent of "information literacy" is probably more appropriate in most American contexts here).
+
+I might argue that this emphesis on extension work has become a double-edged sword, as the continual dissolution of the social safety net has rendered the Public Library a place of last resort for (e.g.) a space to sit down indoors where you're not expected to buy anything to be there; public bathrooms, etc. This library-cum-rec-center mode has placed a heavy burden on the insititution that, given more socialist governmental organizations, should be handled by different agencies.
+
+
+
+
+
+
+
+
+## Ch. 6: The Fourth Law: Save the time of the reader
+
+This chapter concerns the flow of a patron through their library trip, focusing on micro-level optimizations leading to a smoother information-seeking experience. The last portion examines time-saving from the staff perspective.
+
+R. saw this law as gaining in importance only after the first three laws had become established in a library system; but he also seems to have fallen prey to the [Francis Fukiyama trap](https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man#Criticisms): That is, <ins>he assumes progress only flows in one direction</ins>. He makes no provisions for the circumstance we now find ourselves in, where libraries have focused on optimizing the Fourth Law while the Third is actually losing ground.
+
+Side note: R. mentions scientific management concepts in a few places, mainly in relation to how American libraries have fully embraced the "time is money" context. Might be a good excuse to finally dig into Odell's _Saving Time_.
+
+### Open Access System
+
+Again, most of this discussion is moot from mass adoption, but I do want to call out one excellent quote. In the closed-stacks system, the patron was responsible for trawling the catalog for exactly what they needed, and any mistakes therein lead to repeating the process, making "the selection of books a heart-break and a labour tinctured with digust." (p. 339) I would argue this actually describes the process of trying to locate PDF files on many modern websites.
+
+
+
+### Shelf Arrangment 
+
+Concerns the organization of a collection, and labeling (e.g. shelf placards and spine tags); and the effects this organization has on maintenance by the staff. R. once again makes the case for subject ordering rather than author ordering, and notes:
+
+> The Fourth Law would throw some further light on the arrangement. In the first place, it would recommend that the classes accommodated in adjacent shelves should have the greatest possible affinity. A reader that is primarily interested in philosophy is sure to have some interest in religion and psychology. Hence, to SAVE THE TIME OF THAT CLASS OF READERS, it would be advisable to put religion on one side of philosophy and psychology on its other side. In a similar manner, the Fourth Law must be constantly borne in mind in fixing the relative position of the other classes as well. (p. 344)
+
+I'm going to push back a little on this. Here, R. is presupposing a specific way of both looking at the world, and the overall organization of fields of knowledge. Once again, my experience with the Prelinger Library has revealed when patrons are confronted with nonstandard knowledge organizations, they typically respond with positive surprise; and during the explaination of the system, find themselves excited by the unexpected connections between fields. Here, R. is making the case that <ins>efficiency</ins> should be prioritized above this <ins>new thought</ins> experience.
+
+On the topic of labeling, R. scoffs, 
+> There is nothing more offensive to the eye than a dirty half-torn tag disfiguring the back of a book. It further produces an impression of slovenliness which is inimical to the bright business-like look that a library should present to the reader." (p. 349)
+
+But _should_ it tho? I cannot tell you how many times I overheard customers at Green Apple describe how much they loved book store like this; sagging, mismatched shelving; a ramshackle palimpset of random items stapled to the wall. Earlier, R. talks about the need to make the library environment comfortable for patrons -- is there a specific reason comfort (or more broadly, vibe) should be subservient to time-saving? Might we instead reverse our priorities here?
+
+### Catalogging; Bibliography; Reference Work; Charge & Discharge Methods (Checking out & returning)
+
+Catalogging: Once again, R. returns to the value of catalogging; Here, R. makes the argument that the (considerable) time creating these catalogs is well-spent from a utilitarian perspective; Saving the time of all future researchers using the catalog resource in perpetuity.
+
+Bibliography: Presently, online systems like OpenAlex, DataCite (etc) do this task for free. However, the emergence of syllabi-making in the newish artistic field of "research creation" is bringing some of these ideas back into examination.
+
+Reference: Presently, the expectation is often that the reader now posesses all they need to do this work in a digital interface. One interesting nugget here is the mention of a Reference Librarian triaging items for the approx. reading level of the patron. Is there a way we could use automated systems on web text to perform this role?
+
+Charge & Discharge: This section is basically irrellevant in 2024, but is notable for its clear description of how check-cards operated, in case people born after this system's cessation are curious about it.
+
+### Save the Time of the Staff
+
+The first portion of this section is dedicated to the vast time-savings found in switching from a ledger system to a card system. (p.370 includes what we call an "entity relationship diagram" in the SQL world!)
+
+- Central Catalogging: Concerns the LOC and other national systems, and the time=money cost-savings to be found in using them where possible.
+- Library Location: Includes some interesting discussion of the Urban / Rural divide, as it concerns the apportionment of tax funds for estblishing traveling rural services. R. provides the analogy of the postal system: The library service is a similar collectivist benefit to all society.
+
+
+
+
+## Ch. 7: The Fifth Law: The Library is a Growing Organism
+
+This chapter is predecated around a central metaphor:
+
+> It is an accepted biological fact that a growing organism alone will survive. An organism which ceases to grow will petrify and perish. The fifth law invites our attention to the fact that the library, as an institution, has all the attributes of a growing organism. (p. 382)
+
+Once again, I want to clarify that this may have seemed the case at the time of this writing, but I'm not sure the metaphor still holds. Budget cuts, staff attrition, etc. in many cases may describe a receeding organism. Secondly; Particularly in the acadmic libraries, the near-total changeover to digital journals leads to further questions about whether the admin of these materials includes enough similarities to warrant the metphore -- as a digital librarian in this field, I interface exclusively with digital systems; I do not interface with patrons. Our department makes data-driven decisions.
+
+### Growth in Size
+
+R. lists three growth areas: Books, readers, and staff.  "A far less pardonable thing is to set about organizing a library as if it would be stationary, as if neither of the books, nor the readers, nor the staff would grow in number." (p. 384) Methods of organization at smaller levels break down when scaled up. Books-wise, the discussion mainly concerns space alotments; shelving design; and offsite storage strategoes. Discussion of the catalog room is irellevant, though of course translates to technical issues such as hosting space and infrastructure presently.
+
+An interesting digression into the effects of collection expansion on catalogging advocates for hard and careful forethought before any partial or adapted scheme should be adopted, lest enormous amounts of material need revised catalogging at a future date. An excellent observation: As a library's collection grows, more material will need to be reshelved further away, hence the floors should be as even as possible to make handcart rolling easy. A final note on staffing is charmingly optimistic, advocating for integration and selfless labor as bees in a hive.
+
+### The Modern Predicament: The Library Is No Longer Neccesarily A Growing Organism
+
+Like the last chapter, R. sees growth only. The facts and figures he provides makes clear why he positions himself this way; At the time, library systems were seeing multi-hundrd-fold increases in circulation over the 1910-1920 decade. R.'s own library system experienced a 2,260% circulation increase between 1914 and 1930. (p. 403) But again, I want to push back here, because we're looking at a completely different landscape here in 2024.
+
+The ALA reports 27% of all public libraries [lost staff positions](https://www.ala.org/sites/default/files/pla/content/data/PLA_Staff_Survey_Report_2022.pdf) in 2021. This report also includes a graph showing both Directorship and Beginning Librarian sallaries dropped during the 2008 recession and never recovered. Beginning librarian salaries in 2002 were around $50k/year; Had this salary kept up with [cost-of-living](https://aier.org/cost-of-living-calculator/), it should now be around $84k, in reality it's around half that, closer to $40k/year.
+
+SFPL's [vacancy rate increased](https://sfpl.org/sites/default/files/2022-04/4-talent-acquisition042122_0.pdf) year-over-year from 2019 to 2021:
+
+Status | 2019 | 2020 | 2021 
+-|-|-|-
+Filled | 0937 | 0927 | 0889
+Vacant | 0088 | 0104 | 0133
+Total  | 1025 | 1031 | 1022
+
+While the main seed of the Prelinger's collection came from Megan & Rick's personal books; The majort of the extensive and amazing periodical runs arrived because the library's 1994 establishment dovetailed with a period of rappid and enthusiastic weeding by library across the nation, as CD-ROMs (and later the internet) became seen as a viabale space- and cost-saving means of serving people <ins>information</ins>. I emphesize this information-serving function because, frankly, books serve a purpose even if (and sometimes especially if) their information is outdated. (See noted fussbudget Nicholson Baker's [Weeds: A Talk at the Library](https://www.foundsf.org/index.php?title=WEEDS) for a narrative of this trend reaching its apex with SFPL's migration to its new building.)
+
+Digital publications, have of course taken over as the primary growth area; hence our "space" problems are now digital, measured in petabytes rather than square footage. 
+
+
+### Evolution
+
+
+
+
+
+
+
+
+
 
 ## Notes
 
@@ -22,4 +336,19 @@ Sayers' introduction involves some occultist undercurrents -- hermeticism, speci
 
 
 ## Leaves / Pressings
+
+
+It's October and I've been watching a lot of horror movies lately. Some notables:
+
+_Wolfen_ was one of three major werewolf movies released in 1981, alongside _An American Werewolf in London_ and _The Howling_. It's less-remembered than its counterparts, but having now seen all three, I can safely say it's the best one. Genre-wise, _Howling_ and _American_ are more traditional creature-features, whereas _Wolfen_ is a police procedural with supernatural elements. Shot on location in shithole-era NYC, we follow a police detective brought back from "retirement" (read: drinking problem) as he investigates a series of murders. _Taking of Phelam 123_ vibes. Solid script and an outstanding cast (Albert Finney, Gregory Hines, Edward James Olmos, Tom Noonan, Diane Venora). Unusually for a werewolf story, the overarching metaphor is _not_ the interplay between an individual's desires and their societally-mandated repression. The wolf-view FX are excellent, featuring an early use of the in-camera technique that would be later adapted for the Predator's infared vision.
+
+_Raiders of the Living Dead_ is as wacky as its name suggests. A tiny, cheapo film studio in New Jersey bought an unfinished zombie movie, and tacked on newly-added shots to round out the story. The final product is meandering, incomprehensible, and an absolute joy to watch. Iconically stilted line readings; terrible FX; amazing hair; hilariously obvious day-for-night shots; A legitamately incredible soundtrack; A "boy genius" who assembles a lazer gun from a VCR... this movie has it all. 10/10 -- Can't reccomend this movie highly enough.
+
+_Oddity_ was pretty good, some legit jump scares and overwhelming tension at times.
+
+
+
+
+
+
 
