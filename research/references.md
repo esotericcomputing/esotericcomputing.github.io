@@ -4,6 +4,11 @@ Acharya, M. P. T, & Laursen, O. B. (Ed.). (2019). _We are anarchists: Essays on 
 
 AFL-CIO. (2024). _Library professionals: Facts & figures_. Department for Professional Employees, AFL-CIO. https://www.dpeaflcio.org/factsheets/library-professionals-facts-and-figures Accessed 2024, September 25.
 
+ALA. (n.d.). _Budget in the Crosshairs? Navigating a Challenging Budget Year_. American Library Association. Retrieved October 17, 2024, from https://www.ala.org/advocacy/navigating-challenging-budget-year-budget-crosshairs
+
+PLA. (2021). _Public Library Staff
+and Diversity Report: Results from the 2021 PLA Annual Survey_. Public Library Association. https://www.ala.org/sites/default/files/pla/content/data/PLA_Staff_Survey_Report_2022.pdf
+
 Bianchini, C., & Dousa, T. M. (2024) Editorial Introduction: Ranganathan and his legacy: Past, present, future. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
 
 Boyer, G. (n.d.) _English Poor Laws_. Economic History Association. Accessed 2024, September 24. https://eh.net/encyclopedia/english-poor-laws/
@@ -20,7 +25,13 @@ Charing, S. (1995). _Self-help v state intervention_. The Australian Library Jou
 
 Dumont, L. (1980). _Homo Hierarchicus: The caste system and its implications (Revised 2nd ed)_. University of Chicago Press. 9780226169634
 
+End of History and the Last Man, The;  Criticisms. (2024, Oct. 12) in _Wikipedia_. https://en.wikipedia.org/w/index.php?title=The_End_of_History_and_the_Last_Man&oldid=1250768181#Criticisms
+
+Esguerra, L. (2023, Feb 2). _San Francisco Public Library social worker’s report_. San Francisco Public library Commission. https://sfpl.org/sites/default/files/2023-01/ITEM-5.1-2023-SFPL-Commission-Meeting-Social-Workers-Report.pdf
+
 Fletcher, J. (1996). _Public libraries legislation and educational provision in nineteenth‐Century England_. _28_(2). Journal of educational administration and history. http://doi.org/10.1080/0022062960280201
+
+Frakas, M. (2017, Nov 1). _Less is not more: Rejecting resiliance narratives for library workers_. American Libraries Magazine. Accessed 2024 October 17. https://americanlibrariesmagazine.org/2017/11/01/resilience-less-is-not-more/
 
 Fraser, R. (2003). _The history of Britain from the Romans to the present: A narrative history_. W. W. Norton & Co. 9780393060102.
 
@@ -53,6 +64,8 @@ Peatling, G. K. (2004) _Public Libraries and National Identity in Britain, 1850�
 Sutcliffe, M. P. (2016). _Reading at the front: Books and soldiers in the First World War_. Paedagogica Historica 52(_1-2_). https://doi.org/10.1080/00309230.2015.1133671
 
 Tancrède, R. (Director). (2016) _No Gods, No Masters_ \[Film; 3-part documentary\]. Icarus Films; Arte.
+
+SFPL. (2022, April). San Francisco Public Library talent acquisition, April 2022. San Francisco Public Library https://sfpl.org/sites/default/files/2022-04/4-talent-acquisition042122_0.pdf
 
 Satija, M. P., & Gupta, D. K. (2024) S R Ranganathan: Making of the man and his method. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
 
