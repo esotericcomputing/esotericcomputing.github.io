@@ -77,6 +77,9 @@ UK Parliament. (n.d.a) _The Reform Act 1832_. https://www.parliament.uk/about/li
 
 UK Parliament (n.d.b) _Second Reform Act 1867_. https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/furtherreformacts/ Accessed 2024, September 22. 
 
+
+
+
 Winter, A. (1998). _Mesmerized: Powers of the mind in Victorian Britain_. Chicago University Press. 9780226902234
 
 TK Wacks - Legal Philosophy VSI
@@ -84,3 +87,30 @@ TK Wacks - Legal Philosophy VSI
 TK Graeber - Utopia of Rules
 
 
+
+## Five Laws For X
+
+Anderson, T., Doney, J., Hendrix, B., Martinez, J., Stoddart, R., & Wright, M. (2019). _The Five Laws of OER: Observations from Ranganathan_. Journal of Librarianship and Scholarly Communication, _7_(1). https://doi.org/10.7710/2162-3309.2299
+
+Babu, R. (2011). _Relevance of Five Laws of Library
+Science in the Contemporary Library World_. International Seminar Commemorating the 80th Anniversary of Ranganathan's "Five Laws of Library Science". https://accesson.kr/kslis/assets/pdf/9096/journal-45-4-253.pdf 
+
+Barner, K. (2011). _The Library is a Growing Organism: Ranganathan's Fifth Law of Library Science and the Acadmiec Library in the Digital Age_. Library Philosophy and Practice.
+
+Bhatt, R. K.. (2011). _Relevance of Ranganathan’s Laws of Library Science in Library Marketing_ Library Philosophy and Practice.
+
+Cana, M. (2003, July 5). _Open Source and Ranganathan's Five Laws of Lirbary Science_. infosophy: Socio-technological Rendering of Information. Retrieved 2024, Oct. 25, via wayback machine, 2006 Feb. 19 snapshot. https://web.archive.org/web/20060219093437/http://www.kmentor.com/socio-tech-info/archives/000079.html
+
+George, S. (2022). _Re-Looking at S. R. Ranganathan’s Five Laws of Library Science_. International Journal of Librarianship, _7_(2), 155–161. Library & Information Science Source.
+
+Gorman, M. (1995, September.) _Five New Laws of Librarianship_. American Libraries, p. 784.
+
+Kaushik, A. (2021). _Five laws of library science in MOOCs environment_. Library Hi Tech News, _38_(1), 6–8. https://doi.org/10.1108/LHTN-12-2019-0094
+
+Kumbhar, B. (n.d.). S R Ranganathan’s Five Laws in the Context of Digital Libraries. 9789381546215
+
+Noruzi, A. (2004) Application of Ranganathan's Laws to the Web. Webology, _1_(2). https://www.webology.org/2004/v1n2/a8.html
+
+Opara, U. N. (2017). _Empowering library users through the Five Laws of Library Science_. Library Philosophy & Practice, 1–14. Library & Information Science Source.
+
+Valentine, F. (2010). _Ranganathan Reformatted_. OLA Quarterly, _16_(1), 28–30. https://doi.org/10.7710/1093-7374.1274

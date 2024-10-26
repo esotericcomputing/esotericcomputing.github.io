@@ -1,222 +1,278 @@
-# 2024-10-14 - The Five Laws of Library Science: Book Summary
+# Working - Analyses
 
-## Context
+## ALIS Centenary Issue
 
-The two previous research reports ([India](http://esotericcomputing.com/research/2024-09-10) and [England](http://esotericcomputing.com/research/2024-09-28)) cover this at length; I'll briefly summarize.
 
-The British and Indian public library systems Ranganathan was engaged with emerged in the 19th c. as part of the "Adult Education" movement, which was rooted in upper-class individualist/utilitarian legislative responses to working- and lower-class agitation for expanded suffrage. By the mid-19th c., private libraries were well-established and fairly accessible; The public library system was created and bolstered by 1850, 1855, and 1866 Acts; Significant private donations (mainly from Carnegie) in the 1890s; and the 1919 Act.
 
-Because of its economic value to the British Empire, administrative and technological developments were often deployed concurrently in India, including public education. Public libraries, however, were slower to take root. Ranganathan was born in 1892, to a Hindu Brahmin family in the Madras Presidency; His education was both secular and religious, and at the collegiate levels in the English system. After several years as a mathematics professor at Madras University, he was appointed University Librarian in 1924. He traveled to England the following year for an intensive study of its library systems; This, coupled with various lectures and essays following his return, forms the basis of _The Five Laws of Library Science_, published in 1930.
+## Five Laws for X
 
+Note: Several authors in this study have given names outside my familiarity; I will refer to all authors with the pronoun "they" to save time.
 
+### Note: R.'s thoughts on the Paper in the Vedic context
 
+### The Similarities
 
+Everyone seems to agree the term "book" can be happily replaced with other "aetheric" and "gross" forms of "soul content" -- e.g. "document," "digital object," etc -- but their common replacement for "reader," "user," is less linguistically and metaphorically secure. A "reader" is assumed to be interacting with a "book" in a broad engagement; That is, the reader may not have found anything of value during their read; none-the-less, the engagement itself in the form of reading is of primary concern. But what might it mean if a patron "uses" a digital photograph in a repository? How does "using" a photo differ from "viewing" a photo? How might we characterize a patron who "views" a digital magazine but does not "use" any material they found within? This is perhaps splitting hairs, but this is an academic paper; hair-splitting is the coin of the realm. Why have so many authors gravitated toward the term "use" of (e.g.) digestion, engagement, or access?
 
+The fact is, everyone is playing fast-and-loose with what the laws mean. Frequently, people ascribe aspects of different laws to one another (e.g., Opara describes both library promotion and cataloging as part of the Second law, where R. places these specifically in the Third, and Third and Fourth, respectively.) Frankly, this makes me wonder how many people who publish papers on the Five Laws actually read the book, as opposed to reading digests or synopses from later authors?
 
 
-## The Vibe
 
-After wading through the morass of modern-day academic writing on Victorian England, I was steeling myself for a brutal, antiquated slog -- But no! R.'s writing style is casual, disarming, occasionally humorous, and peppered with slang; In short, _The Five Laws_ is a general-audience work. Refreshingly free from the straitjacket of APA or Chicago, R. EMPHASIZES BIG IDEAS WITH CAPS and liberally scatters exclamation points. The work as a whole has a calico feel from its composite origin; A few sections are rendered dramaturgically, as conversations between anthropomorphized concepts (like the siblings "The Rule of Least Cost" and "...Least Space," nicknamed "Costie" and "Spacie"); One chapter includes a lengthy draft bill for the establishment of a public library system in the Madras. The current edition (by Ess Ess Publications for Randra Ranganathan Endowment for Library Science) is a scanned facsimile rather than a digital re-setting, meaning the original's occasionally-flawed typography is delightfully preserved.
+I'm unsure how to articulate this; but there's an uncomfortable feedback loop; a pale ghost of Colonialism; some circular drawing of information, an Indian in England, then the West drawing his insights, his knowledge work, into new forms.
 
 
-### Target Audience
 
-Owing to its international scope (the third chapter in particular), the work would likely prove useful to anyone looking to establish a public library system; But the text often references the particulars in the Madras, and the assumed reader is Indian, English-educated, and possibly in some position of influence over policy at governmental or educational institutions. 
 
+The more recent of these articles often include a paragraph listing all the far-flung subjects to which the Five Laws have been applied; Here, dear reader, we imagine ourselves staring into the yawning orobusian nightmare of academia; Ideas trapped forever in Saṃsāra; Analyses of analyses of analyses. I will circumvent this genre trope by instead abusing APA7's in-text citation rules.
 
-## The Five Laws
 
-R.'s Five Laws are _observed_ rather than _declared_: They derive from his study of flourishing library systems and personal experimentation. But R. also brings his Hindu grounding to the process, often closing chapters by emphasizing the social goals of the public library movement by quoting Hindu texts. The Laws are framed sequentially:
 
-1. BOOKS ARE FOR USE: Libraries must shift their view of collections from preservation to use.
-2. EVERY READER \[THEIR\] BOOK: Each member of the public should have adequate access to the library system, and material suitable for everyone should be stocked.
-3. EVERY BOOK ITS READER: Wayfinding, catalogs, and reference services should expose the library's contents to the fullest extent to the readers.
-4. SAVE THE TIME OF THE READER: The above, and back-of-house processes should be optimized.
-5. THE LIBRARY IS A GROWING ORGANISM: Careful forethought employed in planning for the future.
 
-The disproportionate amount of ink R. expends on the Second Law reflects the stage at which he saw the Indian library context and its immediate challenges. (Sequentially, by percent: 17.5%, 53.8%, 8.9%, 10.6%, and 8.2%.)
 
 
-### 1. BOOKS ARE FOR USE!
 
-R. begins with a history of library design and function; From medieval "chained" libraries aiming to preserve rare, hand-made manuscripts; To the current "open stacks" style designed to enthusiastically circulate affordable, mass-produced print. But beyond these physical aspects, he identifies policy decisions as roadblocks to "use," sometimes in subtle ways:
 
-- Locating libraries in out-of-the-way places;
-- Limiting their open hours to throttle demand;
-- Designing stacks and reading spaces for storage rather than human navigation and comfortable study;
-- And staffing libraries with unenthusiastic individuals, or in the case of schools, stern employees who frighten kids.
 
-As is still often the case, R. identifies libraries' meager budgets as the root of many use-related problems, and fiercely advocates for librarian wage increases in particular, in order to draw highly-educated, serious individuals into the field. 
 
 
-### 2. EVERY READER \[THEIR\] BOOK!
 
-This is a case where reading the full text rather than just the heading is clarifying: R. discusses individual staff-patron interactions mostly in the first and fourth law, R.'s arguments here are specifically collectivist in nature.
 
-He metaphorically invokes "revolution" several times int the text -- Interesting choice for an author and audience under colonial rule! -- and begins his discussion of demographics with the heading "The Classes and the Masses," where he notes "The Second Law of library science has triumphantly planted its democratic flag in many a land having blown to pieces the black-coated barrier of exclusiveness and snobbery." (p. 89) He sees India's delays in implementing a more robust and accessible library system as partially the fault of his upper-class peers, who he calls out in this particularly spicy passage:
+### Five laws of the web (2004, Noruzi)
 
-> This tragic triumph of India in her fight against the intrusion of the Second Law... is not a little due to the almost criminal apathy and neglect of duty on the part of her better placed "English-Educated" sons. They have developed an abnormal short-sight which disables them from seeing beyond their nose, at any rate beyond their privileged circle. They glibly speak of India, and her millions, when they mean only the two percent of her millions who can lisp in English. (p. 90)
+"If information is the currency of the knowledge-based economy, the Web will be the bank where it is invested."
 
-Generally, R. approaches the intention and function of public libraries in the British "Adult Education" mold. He describes the widespread benefit of libraries for the country and city folk; The erudite and illiterate; Seafarers and landlubbers; Men and Women. (R.'s full-throated advocacy for gender equality leads me to comfortably modify this law's gender-inclusive title for a modern audience.) Discussing the increasing educational lag in rural areas, he observes,
+characterizes web users as cybercitizens!
 
-> \[E\]ven at the very early stage, the increasing complexities and the grave menaces attendant on the civic problems of a crowded city made out a strong plea for "education for all" and "books for all" in the case of the city folk. That inexorable mistress, necessity, however, did not, for long, put a similar pressure in regard to the country folk. Where the consequences of ignorance and lack of books are immediate in an urban area, they are latent and become visible only very late in rural areas. (p. 111)
+"He developed what has been widely accepted as the definitive statement of ideal library service. His Five Laws of Library Science (1931) is a classic of library science literature, as fresh today as it was in 1931."
 
-Hence, to provide books for every reader, collective action is required (in the form of legislation and funding) to ensure that even readers in rural areas can be served in an appropriate manner, with traveling service. He repeatedly makes utilitarian arguments that the ROI on library funding is good: The quick dissemination of new ideas in agriculture, industrialization, etc. translates directly into increased economic productivity.
+For Ranganathan and his followers, the five laws were a first step toward putting library work on a scientific basis, providing general principles from which all library practices could be deduced (Garfield, 1984). 
 
-The chapter "The Second Law and its _Digivaja_ <span class=trans>\[Universal Conquest\]</span>" details the progress and pitfalls of library movements across the globe. This section is historically interesting but somewhat unrelated to my main line of inquiry. One notable takeaway for me is the massive role Carnegie played in kick-starting library systems in the US and UK; R. bemoans that his largess was limited mainly to the Atlantic seaboard, and chides wealthy Indians for not picking up the slack, domestically.
+Lots of good references in this one!!!
 
-The chapter "The Second Law and its Implications" contains draft legislation for the Madras public library system, and is largely focused on the differing obligations of four hierarchical entities:
+"Since 1992, the 100th anniversary of Ranganathan's birth, several modern scholars of library science have attempted to update his five laws, or they reworded them for other purposes."
 
-1. The State: Finance, legislation, and co-ordination
-2. The Library Authority: Staffing and Book selection (including a broad discussion of interlibrary loans)
-3. Library Staff: Shelf-arrangement, cataloging, and reference work
-4. The Reader: Obeying the rules, and using the library in a way that benefits the greatest number of fellow-patrons
+""Five new laws of librarianship" by Michael Gorman (1995); "Principles of distance education" by Sanjaya Mishra (1998); "Five laws of the software library" by Mentor Cana (2003); "Five laws of children's librarianship" by Virginia A. Walter (2004); "Five laws of web connectivity" by Lennart Björneborn (2004); and "Five laws of diversity/affirmative action" by Tracie D. Hall (2004)."
 
+"Like most laws, they look simple until you think about them." -- And therin lies the rub. R. spent 400 pages laying out exactly what he meant; trying to do this is a 2,000-word piece just ain't gonna cut the mustard.
 
-### 3. EVERY BOOK ITS READER!
 
-Once the library has acquired books, what can librarians do to ensure each book has the greatest chance of being used? Discussions include physical layout and wayfinding:
+"This law is very important because information serves no purpose if it is not utilized and at least available for people to attempt to learn. The role of the Web is to serve the individual, community and service, and to maximize social utility in the communication process." 
 
-- Subject-based organizations
-- Appropriate signage on stacks and shelves
-- Uniform, clean, and readable spine tags on books
-- Books on the top and bottom shelves are less-frequently used
-- "Recent Additions" shelves because people like novelty
+This is a deeply naive view of the web lol.
 
-And "extension work" and promotion to draw potential patrons:
 
-- A well-stocked newspaper and periodical room as a gateway drug into the stacks
-- Cultural events to accustom non-patrons to the space
-- Literacy education
-- Forming relationships with local presses
 
-This report's "Discussion" section goes into more detail on this and the following law.
 
 
-### 4. SAVE THE TIME OF THE READER!
 
-R. devotes significant ink in this and the previous chapter to the value of comprehensive cataloging. He extols the value of cross-referencing as a means of exposing the contents of opaque or multi-topic books (e.g., essay collections) in useful ways for readers who would otherwise miss the information therein.
 
-Interestingly, R. intertwines the "time of the reader" with "the time of the staff;" That is, adopting more efficient back-of-house practices can lead to a smoother front-of-house experience, and potentially free the staff up for more direct patron contact and personal assistance. (The specifics here mostly concern switching from ledger systems to card systems.)
 
 
-### 5. THE LIBRARY IS A GROWING ORGANISM.
 
-This section begins with statistical reports of the massive growth of library systems, in books, readers, and staff. R. advocates for careful forethought in planning in _all aspects_ of a library system; Not just square footage, but the adoption and modification of cataloging systems; Planning for different staff departments as headcount increases; Working to understand where patrons are losing time in the library process and stemming the loss' multiplication as usership increases.
 
 
 
+### The Five Laws of OER: Observations from Ranganathan (Andersen, et al., 2019)
 
-## Discussion
+> “Every book its reader.” This law suggests that each item in a library has an individual or individuals who would find that item useful.
 
-Ranganathan opens _The Five Laws_ by comparing the First Law's seeming self-evidence to the first Upanishadic Law of Conduct, "_Satayam Vada_ -- Speak the truth" -- A fitting comparison for a 2024 revisit, as the book's ideas have in the intervening near-century become fully absorbed into the ethos and praxis of library work. But such revisits of canonized material often reveal fascinating TK TK TK TK 
- 
-But such revisit reveals useful 
+No, this law suggests that librarians should create a practice of exposing the contents of their library to the fullest degree.
 
-is thick with useful contextualization, clarification, and limitations of the Laws' utility in modern settings.
+> “The library is a growing organism.” This law implies that libraries, as institutions, are continually changing and that library materials, methods, and facilities should be updated over time.
 
+What is not mentioned here is that the assumed "change" is actually growth-qua-growth.
 
+I had some nitpicks with how this paper translated the Laws for OER, but it's clear in their 2nd law treatment that they actually read the book. Here they advocate for structural changes (e.g., Libraries pushing back against longstanding policies that textbooks should be the financial purview of individual students, and using their collections budget to purchase copies for library use), and directly address the policy-based instabilities of the 2nd law's implementation:
 
+> “If librarians are committed to “every student their educational resource,” they will need to find ways to support faculty and instructors as they negotiate new processes and potentially establish collaborative relationships with other campus entities, such as centers for teaching and learning.” (Anderson et al., 2019, p. 7)
 
-### Clarification: "Every Reader \[Their\] Book" is about collective political action, not individual readers and individual books.
+Their reading of the 3rd law is a little far-out for my tastes:
+> “every book its reader,” focuses on the intersection of discoverability, equitable access, and the variety of information formats. Ranganathan concentrated this law on the physical object of the book, intending for library materials to be relevant to all members of a community. In many ways, this is the idea that patrons can see themselves within a library’s collection. By seeing herself within a library’s collection, a patron can find an item of interest, no matter how esoteric.
 
-_The Five Laws_ is not politically neutral. R. spends half the book on the Second Law, agitating for a collectivist social ethos (Scolding upper-class Indians for not funding private libraries like their UK counterparts; Convincing urban citizens their taxes are well-spent on expensive rural library service), and advocating for wealth redistribution for the public benefit (including via draft legislation). The modern pedagogical framing of the Second Law from an individualist perspective is a misreading; The meaning of this Law is closer to "Every citizen deserves equal access to library services, which should be provided for collectively."
+As is typically, they use this law to lean toward format-agnosticism.
 
+However, they also use it advocate for Open Access, which is a little odd if you ask me.
 
+Also mentions collaboration with other entities creating OER content; ie political involvement.
 
-### Observation: The Fukuyama Problem
+Interestingly, the authors identify the 4th law as a major failing in the OER space:
 
-R.'s visit to England, from where many of his examples are drawn, coincides with decades of enthusiasm and support for the UK library system. Each of the four Library Acts between 1850 and 1919 further liberalized the conditions for creating a public library, and signaled increasing political support for libraries in their for/against vote counts. Carnegie's generous efforts in the 1890s created a flywheel effect, as communities experienced firsthand the benefits of library service, and subsequently passed library bills. The most recent 1919 passed with overwhelming support; it un-capped the amount of taxes localities could levy for library, and enabled library expansion into rural and suburban areas.
+> When Ranganathan (1931) wrote his fourth law, his focus was on open access stacks versus closed stacks; he posited that letting people find their own books saves the time of library staff, as well as patrons. This is almost the exact opposite of open access today, where an overabundance of OER can be overwhelming and difficult for faculty members to navigate. The uncurated and unedited expanse of the Internet is very different from the neatly organized stacks of a library, making it difficult to find the best educational resource for a class.
 
-The statistics R. provides from the US, UK, and India show multi-hundred-fold circulation increases over the 1910-1920 decade; His own Madras University Library experienced a 2,260% circulation increase between 1914 and 1930. (p. 403) Against this backdrop, R. declares "The Library is a Growing Organism," not only in size, but in speciation, e.g., into law libraries, medical libraries, etc. The whole book is, in fact, concerned solely with growth: Stimulating it; Bolstering it; Accommodating its inevitability with square footage, staffing, and organizational methods. "It is an accepted biological fact," R. tells us, "that a growing organism alone will survive. An organism which ceases to grow will petrify and perish." (p. 382)
+An interesting observation that the non-physical nature of OER de-incentivizes the weeding process; ergo portals can become littered with dead links.
 
-You can see where this is gowing. Here in 2024, it appears Ranganathan has fallen victim to the [Fukuyama problem](https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man#Criticisms): An inability to imagine a future that diverts from recent historical trends.
 
 
 
-### Observation: The Library is No Longer Necessarily A Growing Organism
 
-So, are we in the "petrify" or the "perish" stage?
 
-The ALA hosts a handy "[what to do when your budget gets cut](https://www.ala.org/advocacy/navigating-challenging-budget-year-budget-crosshairs)" guide on their website, and reports 27% of public libraries [lost staff positions in 2021](https://www.ala.org/sites/default/files/pla/content/data/PLA_Staff_Survey_Report_2022.pdf). Both Directorship and Beginning Librarian salaries dropped during the 2008 recession and never recovered. Beginning librarian salaries in 2002 were around $50k/year; Had this salary kept up with [cost-of-living](https://aier.org/cost-of-living-calculator/), it would now be around $84k, in reality it's closer to $40k. Between 2019 and 2021, SFPL's [vacancy rate increased](https://sfpl.org/sites/default/files/2022-04/4-talent-acquisition042122_0.pdf) from 8.6% to 13%. Former SJSU Prof. Meredith Farkas' 2017 American Libraries Magazine article [_Less is Not More_](https://americanlibrariesmagazine.org/2017/11/01/resilience-less-is-not-more/) neatly encapsulates the emotional struggle of "doing more with less," a subject which has emerged organically in nearly every class I've taken for my degree. From a modern critical standpoint, Ranganathan's optimistic passion for the socially-uplifting role of libraries sounds at times like a toxic geyser of vocational awe.
 
-Ironically, R's suggestion of incorporating "Extension Work" (e.g., hosting performances, talks, and other promotional tangents) has taken on a fraught edge, as strands of the social safety net -- woven by hard-fought political battles in the 19th and early 20th centuries -- were incrementally undone in the late 20th, leaving the Public Library in many cases as the de-facto public institution of last resort. The SFPL now employs a Social Worker and a team of Health and Safety Associates, whose "[outreach contacts](https://sfpl.org/sites/default/files/2023-01/ITEM-5.1-2023-SFPL-Commission-Meeting-Social-Workers-Report.pdf)" with library patrons increased from 5,907 to 8,850 over calendar years 2020 and 2021. In many cities, the Public Library is one of the only indoor spaces that welcome the public without expectation they purchase something.
 
-But of course, it's hard to visualize the breakdown of a project when you're trying to get it the ground. Let us also remember that when discussing the first law, R. bullies administrators for better librarian salaries and begs the purse-string-holders to take a long view:
 
-> An important handicap that is attendant on library service, and getting what it deserves, is that the benefits of its service are latent. A doctor gets his fifteen rupees for crossing the threshold at once, since people believe that the life or death of the patient at the next moment is dependent on his service. A lawyer gets his hundred rupees for standing on his legs for one hour since people believe that the ownership of property at the next minute is dependent on his service. But the benefit of the service of the library staff, like the benefit of the service of the teacher, is not discernible at the next moment -- not even in the next year or decade. Its benefit, although more universal and lasting, will come to the surface only a generation or two later, when the people that had to open their purse and pay for it are dead and forgotten. This is a distressing attribute, with which God seems to have invested it, perhaps when in a mood of willful mischief. (p. 56)
 
-Ranganathan's work responds to the challenges of his day; Challenges that, in many cases, have long-since been met. The challenges of our day are so substantially different that much material in this book seems -- not exactly _irrelevant_, because it's stellar from a first-principles perspective -- but simply silent on modern problems like the withdrawal of financial and government support; Staff attrition and burnout; Or the science-fictional environment of digital librarianship.
 
 
 
 
+### Re-Looking at S. R. Ranganathan’s Five Laws of Library Science (George, 2022)
 
+This article has some flaws, foremost among them a reductive and IMO somewhat incorrect reading of the Five Laws. <note>(He characterizes Second Law “Every reader their books” as “every user should be able to find the materials they need and the library should be organized in a way that makes this possible,” which is more the domain of the Fourth; and the characterizes the Third Law “Every book its reader” as its end goal rather than a mode of administration which creates this environment (e.g. cataloging practices, wayfinding, etc. He characterizes The Fifth Law “Growing Organism” as “the library should always be improving and evolving to meet the needs of its users,” when in the text, this law is related to _de facto_ growth of the library system.</note> <note>The somewhat clunky sentence “Ranganathan’s Five Laws of Library Science were written in the 1930s when colonialism and the Second World War were still active, and merely existing was still a goal.” ([George, 2022, p. 157](zotero://select/library/items/RTYWVIMJ)) is notable for (1) using the Fifteen Years’ War Historiographic framing, and (2) being simultaneously kind of dumb and profoundly accurate.</note> In rethinking the Five Laws for "generation z," they adopt this framework:
 
+1. **Put Content First, Not the Container.** Information now arrives in multiple formats; ergo the mode of search and discovery should focus on the information content (e.g. the book's "soul content" in R.'s esoteric framework). This is a practical suggestion, but George's statements about the universal availability of digitized content and the lack of user preference about the work's "aetheric" and "gross body" (ibid) are flat wrong.
 
-## Never Skip Leg Day: The Organism is Growing, but in Disproportionate Ways
+2. **& 3. User Participation.** This grouping of the 2nd and 3rd Law is predicated on the common individualistic misreading of the 2nd Law mentioned in my last report. Here, George recommends running a 4-part study to assess:
+   - What "information retrieval system" is appropriate for the user base;
+   - The users' perception of the system's output given their expectations;
+   - How the users are engaging with the system;
+   - And Librarians dogfooding the system to understand its limitations.
 
-Which brings us to the crux of the matter. Ranganthan presupposes his laws are sequential, accruative; But the current state of digital librarianship indicates the Fourth Law ("Save the Time of the Reader") is flourishing, while the Third ("Every Book its Reader") is losing ground. Keeping with R.'s "organism" metaphor, imagine the digital library space as a yoked bodybuilder with a bad habit of skipping leg day.
+4. **Information Quantitative Analysis.** "A quantifiable evaluation is crucial in the digital age since Generation Z tends to think all the time logically." \[Citation Needed\] Basically George is advocating for "data-driven" analysis techniques.
 
-With the maturation of computerized databases, the cataloging practices R. encourages in "Save the Time of the Reader" have reached a level of functionality, speed, and granularity almost incomprehensible in 1930 (near-instantaneous full-text search!). Document retrieval time is now negligible; The "time of the reader" is now spent selecting and refining search criteria. Wayfinding arrives in the form of UIs confettied with linked metadata; Entire library sections assembled on-the-fly just for you. But paradoxically, even with this supercharged cataloging/metadata environment, a shrinking percent of "books" are finding their "readers" -- at least as evidenced by citation rates and altmetrics. Obviously, this comparison is somewhat apples-to-oranges:
+5. **The Common Learning (Online and Offline).** In considering what element of the library system is currently "growing," George recommends leaning into the freeformspaces libraries provide for collaborative user interaction.
 
-1. R.'s scope is much more general, encompassing public libraries (systems, urban, and rural), scholastic, and university; and
-2. My citation- and altmetric-based context metaphorizes a distinct article, note, presentation, monograph (etc.) as a "book" -- whereas R. really did mean _books-qua-books_. His sections on cross-referencing in Chapters 4 and 5 describe the utility of exposing the contents of collections (essay collections, periodicals, etc) but considers _the collection_ as the unit of circulation.
+Additionally, George's take on the Fourth Law ("Save the time of the reader") clarifies something that's been bothering me. Consider the following: “But this guideline makes it very clear: We have a responsibility to respect the time of our users since it is valuable.” (George, 2022, p. 157) In _The Five Laws_, R. invokes the bromide "Time is Money"; to which O'Dell rightly asks, "Whose Time? Whose Money?" This "Fungible Time" framework assumes a library's end-goal is the minimization or elimination of temporal interface between the "user" and "information."
 
-To the second point: He relates an anecdote of adding a cross-reference to "coffee" for pages 615-660 of the fifth volume of the seldom-circulated _Complete Works of Count Rumford_, and watching it henceforth fly off the shelf. (p. 311) Never mind that hundreds of non-coffee-related pages may have gone unread; By R's reckoning, the "book" still found "its reader."
 
 
-### The role of the human
 
-A different way of framing the "every book its reader" problem in digital library contexts concerns the digital system itself as an intermediary between the librarian and the patrons. The two-page subsection "reference work" in Chapter 5 contains a clear articulation of this disconnection:
 
-> The mechanical organization of a library – however desirable – can never be carried to the point of dispensing with personal service. <ins>The requirement of the Third Law defies and transcends machinery</ins>. \[...\] The staff on Reference duty have exceptional opportunities to mingle with the passing throng of readers. This direct contact with the readers brings with it opportunities to observe their tastes and wants, their actions and reactions in their likes and dislikes. \[...\] He knows his community and is familiar with its <ins>mind, spirit, and dominant interests</ins>. He seeks to have his finger on the pulse of his public and is ever on the wait for an opportunity to find a reader for every book. <ins>In the hands of a competent Reference Librarian, a library is like a kaleidoscope. His skills consist in turning its facets in such a way that they can all be seen and that each facet may attract those for whom it has interest</ins>. (p. 312; Significant glossing and emphasis mine.)
 
-Reference librarians are now often placed in intervention positions in digital system; e.g. available for live chat or email. Lib Guides now provide the service R. was familiar with in the context of bibliographies; An intermediary between human and mechanical service. (In R.'s framework, my CDL role would be part of the back-of-house "cataloging" staff.) But what percentage of digital library traffic runs through these "personal" channels? And does the communication medium (chat, email) allow the reference librarian to adequately assess a reader's mind <ins>and spirit</ins>? (No eye rolling! Consider this seriously.)
 
-Part of the problem is scale: I'm not gonna track down these numbers, but five'll-get-ya-ten the librarian:publication ratio is shrinking by the day. Ergo, administrative practicality necessitates offloading manual labor to mechanical techniques; The question then becomes whether these <ins>mechanical techniques are adequate for every reader</ins>. I'd argue that digital systems are presently focused almost exclusively on information-seeking, thus leaving a sizeable gap for differing patron needs.
 
+### The Library is a Growing Organism: Ranganathan's Fifth Law of Library Science and the Academic Library in the Digital Era (Barner, 2011)
 
+Barner's article arrives at the early years of Web 2.0, where users are beginning to prefer Google, Yahoo (lol), and other online sources from the "bus" or the "coffee shop," over the traditional references services provided by academic libraries. The "proper term" for this being "disintermediation" (Housewright, 2009; Lukasiewicz, 2007),<note>I love the term "disintermediation" because it encourages the metaphor of the library as a "medium" through which the dead communicate with the living, which is something I hope to explore further.</note> fueled "to a certain degree by the growing distance between the librarians, and their clients. Limits of time and budget are certainly an obstacle in the process of creating closer bonds, but the obstacle here might be more related to the human tendency to cling to what is known and familiar." (in this case, googling.) R.'s Five Laws are listed without context or elucidation; Barner connects R.'s Fifth Law metaphor with Darwin's theory of Evolution, which is discussed is more detail.
 
+> According to Darwin, evolution has no plan or purpose. Primary differences between organisms are accidental, and those who happen to be more adapted to their environment, survive and expand. However, sometimes the environment changes at a quicker pace than the living organism can adapt itself. In those cases the organism becomes extinct. If the library is the organism as Ranganathan put it, it should be careful, for if it does not change fast enough, it will become extinct. (Barner, 2011)
 
+Barner see R's Fifth Law as an opportunity for "the library to not only reclaim the role of mediation, but also to expand its boundaries and define new goals and roles" which will allow libraries to "<ins>survive the war of existence.</ins>" (Emphasis mine.) Barners sees heterogeneity in library structures is an asset; signaling successful adaption to a variety of environments. Barner contrasts Darwin's ex-post-facto organism environmental adaptations with R.'s ideal of farsighted adaptation; and suggests that an ideal library survival strategy "seems to be an optimal coping with disintermediation in information consumption." This can occur in two strategies: (1) Adapting existing library strategies to new digital environments, and (2) "an inventive process," which is this paper's focus. 
 
+Barner identifies post-internet, keyword-based user search behavior (googly, skimmy, lazy) as having obfuscated and devalued the reference librarian's finely-honed searching skills, and suggest using social media as a space for advertising these skills and fielding ad-hoc reference queries. They discuss librarian's metadata-creation expertise as essential for mass digitization projects, discussing how the library can leverage online search engines SEO to better surface collections. And they discuss online publishing as an opportunity for Libraries to engage with the publishing ecosystem for the "creation of knowledge". (To this last point; CDL's strategy has been to provide a platform for academic publishing rather than the creation of a periodical. It remains somewhat unclear if this strategy is appropriate for creating visibility in the 2020s, given the rising total number of publications and decreasing engagement.)
 
+Throughout this article, Barner casts library patrons as "consumers" or "users" of information. They recommend strategies for assisting users, both reactive (directly assisting patrons with forming a coherent search strategy) and proactive (data-driven decision-making on which information resources to surface or acquisitively bolster). These services are critical for "re-acquaint\[ing\]" users with library services:
 
+> Discarding the library as mediator takes place to a great extent in a way similar to the changing forces in the free market. Information sources, information distribution and information services are no longer the sole province of the academic library and so the consumers turn to whoever they believe satisfies their needs in the best way (Lewis, 2009). The internet has created a space in which new bodies contend over the role of mediating information for the consumers[iv]. It is important to evoke realization and understanding of the need for assistance by information personnel among the communities of academic consumers, so they will reach the conclusion that librarian mediation and/or imparting of information literacy by the library is the best answer for them (Nicholas and Herman, 2009).
 
+I found this a particularly fascinating, because it explicitly links the absorption of the library into an (ideologically foreign) free-market ecosystem as a bellweather of trouble. In essence, the collectivist political positions R. forwards in _Five Laws_ are specifically designed to circumvent the profit-driven necessities of the private sector to deliver information services, which in the Indian context, the private sector had failed to deliver to "every reader."
 
-## Appedix: Rising Uncitedness Hypotheses
 
-#### Hyperspecialization: The Authors are the only Readers
 
-In "Every Reader \[Their\] Book," R. provides an anecdote of a rural farmer who, provided a publication related to new techniques, becomes an enthusiastic library patron. Similar anecdotes are provided for homemakers finding new information to improve the family's at-home healthcare. In sections concerning personal service, R. advises the librarian to assess or directly query the patron for their preferred level of detail, his example being the then-current Theory of Relativity, on which material ranged from general-audience to postgraduate.
 
-Consider the following papers, which happened to flow through CDL's metadata system this afternoon:
 
-- R2C2 + UMI: Combining concatemeric and unique molecular identifier-based consensus sequencing enables ultra-accurate sequencing of amplicons on Oxford Nanopore Technologies sequencers.
-- Oscillatory ERK Signaling and Morphology Determine Heterogeneity of Breast Cancer Cell Chemotaxis via MEK-ERK and p38-MAPK Signaling Pathways.
-- PuCl3{CoCp\[OP(OEt)2\]3}: transuranic elements entering the field of heterometallic molecular chemistry.
-- Author Correction: Emergence of distinct electronic states in epitaxially-fused PbSe quantum dot superlattices.
-- Ultrafast-Laser Micro-Structuring of LiNi0.8Mn0.1Co0.1O2 Cathode for High-Rate Capability of Three-Dimensional Li-ion Batteries.
 
-The level of specialization required to understand this material -- let alone translate it for a general audience -- is daunting; And the pool of readers for whom this knowledge is _actionable_ may be limited to people with access to multimillion-dollar research facilities. It is, perhaps, intuitive that readership and citation would decline in an environment like this, possibly even to a 1:1 scale.
 
 
-#### Has the purpose of academic writing itself changed?
 
-I'm unsure how to phrase this exactly, but I wonder if the ease of writing in the post-word processor era has literally changed the _function of writing_ from an activity primarily concerned with _communicating ideas interpersonally_ to _refining ideas individually_. After the ideas have been polished and organized in writing, a paper has been produced, ergo it can be published. I cannot think of a reasonable way to test this. It would require a survey instrument, and we'd need to interview academics who published prior to word processing for a good comparison.
 
 
 
-#### They've always been here
+### Five New Laws of Library Science (Gorman, 1995)
 
-Another possibility is that uncitedness only <i>appears</i> to be increasing because it's only now fully measurable; E.g. This lower caste of uncited material has always existed, but until the advent of digital informetric systems, there was little reason to track it.
+(Michael Gorman was a coeditor of the AACR2) Rather than a simple noun-swap from "book" to "digital object," Gorman instead provides five new Laws stemming from Ranganathan's general ethos -- a practice I wish more of these articles embraced! The central concern here is the effects of technology on libraries, with Gorman advocating for judicious integration of new forms rather than wholesale replacement of older ones. 
 
+1. **Libraries serve humanity**: Focuses on the broad service ethic of librarianship, e.g., the nitty-gritty particulars of our cataloging exist to help us better serve the public. Gorman suggests we ask "How will this change make the service that this library gives better?" when brainstorming changes.
 
-#### Actually, the Third Law is working as intended, but now the "books" and "readers" have changed.
+2. **Respect all forms by which knowledge is communicated**: "Each new means of communication enhances and supplements the strengths of all previous means."
 
-Let's say a scientist has a bucket full of cheese cubes, and he makes a mouse solve a maze to receive one. And let's say the mouse figures out how to escape the maze altogether and access the full bucket. While this wasn't the intended outcome, it's actually a little difficult to characterize what exactly went wrong here, or who's to blame. In one sense, it's the scientist's fault for making a mouse sole a puzzle before he got a single measly cheese cube, when the scientists could have done the polite thing and shared the full bucket with the mouse right off the bat. Or perhaps nothing has actually gone wrong here; That is, the mouse correctly assessed the situation, and found the correct solution for getting the cheese as efficiently as possible.
+3. **Use technology intelligently to enhance service**: "One does not have to choose between being a Luddite or a soulless technocrat." Similar to the above, Gorman advocates assessing the strengths and weakness of new technologies, and playing to their strengths; while at the same time retaining older techniques when they truly are better for the patron.
 
-What I'm saying here is that, in building digital systems which encourage metric tracking, we've created an environment where it's possible to view metrics as being primarily for their performance-based contexts, rather than their original function as a knowledge-graph system. The author's and reader's engagement with the actual content of the item is, in this line of thinking, no longer meaningful or even relevant; It's the interplay between the digital system and the item's metadata record that matters.
+4. **Protect Free Access to Knowledge**: Here, Gorman is referring specifically to "intellectual freedom" as uncoupled from (e.g.) the closing of knowledge from capitalist practices.
+
+5. **Honor the past and create the future**: This Law advocates for a view of the path that neither valorizes nor discards; but rather integrates into the flow of human progress.
+
+The closing of the fifth law includes some deeply practical ideas that, none the less, rubbed me the wrong way:
+
+> With a sense of history and a knowledge of enduring values and the continuity of our mission, the library can never be destroyed. Along with this sense of time future being contained in the time past there must be the acceptance of the challenge of innovation. It is neither the easiest of prescriptions nor the most fashionable, but libraries need to combine the past and the future in a rational, clear-headed, unsentimental manner.
+
+But need we? _Must_ our technological  integrations be rational? Clear-headed? Unsentimental? This hews too closely to the elevation of masculinized labor at the expense of the equally valid and challenging realm of ambiguity, sentimentality, and intuition.
+
+
+
+
+
+
+
+
+
+
+### Five laws of library science in MOOCs environment (Kaushik, 2021)
+
+Describes the Five Laws as "the most established fundamental laws in the library and information science domain and are pivotal in developing value-added services and providing these services to users in the most effective manner." 
+
+TK TK look these up:
+
+> Even today, these five laws can also be used in different contexts and redefine library research and services (McMenemy, 2007). Sen (2008) performed a study that revealed that these five laws can also be used in diverse context and formats and similarlybyothers(Gupta, 2010; Noruzi, 2004; Chudasma, 2019; Anderson et al., 2019) including the marketing of library services, Web, cloud computing and open educational resources.
+
+Kaushik performs a simple noun swap for their laws:
+
+1. MOOCs are for user
+2. Every learner his/her MOOC
+3. Every MOOC its learner
+4. Save the time of the learner
+5. MOOC is a growing organism
+
+Getting into the weeds on MOOCs isn't really my cup of tea, but this FLFX is a great demonstration of how modern authors casually denude the Second law of its political content. Here, Kaushik focuses exclusively on (e.g.) assesing which MOOCs are appropriate for various learners, missing the opportunity for deeper engagement with questions like "What if we created a subdivision of the Dept. of Education specifically to generate MOOC content, using taxpayer funding and providing the content for free?"
+
+
+
+
+
+
+
+
+
+
+
+### S R Ranganathan’s Five Laws in the Context of Digital Libraries (Kumbhar, n.d.)
+
+This student paper translates R.'s Five Laws for digital library contexts, substituting the term "book" for "digital object" and "reader" for "user;" The titles of the Laws are otherwise unchanged. It's not a particularly involved paper.
+
+Discussing the First Law, Kumbhar states "information serves no purpose if it is not utilized and at least available for people to attempt to learn;" once again placing information at the primacy of the library experience -- but paradoxically, also a "Digital Library exists for society and it should serve the interest of society." But what if these interests are non-informational?
+
+
+
+
+
+### Relevance of Ranganathan's Laws of Library Science in Library Marketing (Bhatt, 2011)
+
+This brief article examines the Five Laws from the perspective of 21st c. library marketing. Interestingly, aside from the updated communication mediums (e.g. email, bulletin boards, "e-commerce"), nearly all of Bhatt's suggestions are at least mentioned in the text of _The Five Laws_, broadly-construed. This article's main ideological thrust is something akin to "meeting the people where they are."
+
+Here, readers are, by necessity, translated into "consumers" during the interpretation of _The Five Laws_ in the context of marketing literature; This is, at times, uncomfortable conceptual fit, particularly considering the lengths to which R. goes in the Second Law to position library services in the realm of a public good, ergo existing outside the consumption-based framework of commercial services.
+
+One interesting takeaway from this article concerns the concept of "atmospherics," a term "coined by Philip Kotler (1975) who defines \[it\] as 'the designing of buying and consuming environments in a manner calculated to produce specific cognitive and/or emotional effects on the target market.'' In other words, the working environment, library ambience, appearance of employees, the physical setting, lighting, work environment, noise levels, etc."
+
+
+
+
+
+
+### Ranganathan Reformatted (Valentine, 2010)
+
+Covers the "format wars" (print vs. digital) happening at the time. 
+
+1. **Items are for use**: A narrow-interest facsimile reproduction of a medieval pslater may run into the hundreds of dollars per copy; but a scanned PDF is free. These differing formats ensure the item is accessible even if one format is out of a library's price range.
+2. **Every user their format**: Some readers may prefer an electronic version of a text even if a hard copy is available (the article doesn't mention this, but accessibility is the best use case for this argument.)
+3. **Every format its user**: This point makes the case for print as the ideal format for preservation.
+4. **Save the time of the user**: Discusses patrons' difficulty navigating unfamiliar interfaces; and as a librarian, knowing which format is best for the patron.
+5. **The library is always evolving.**: Does what it says on the tin.
+
+
+
+### Empowering library users through the Five Laws of Library Science (Opara, 2017)
+
+In discussing the effect of libraries, Opara gamely opens in the pre-literate era, arguing that all knowledge was personal, and citing Musingafi and Chiwanza's (2012) work on the effects of writing on knowledge capture and transmission. Thence we run through "The libraries of Ashurbanipal of Ninevah in ancient Mesopotamia, the Alexandria library by the Ptolemies, the Pergamum library by Attalus I and Eumenes II in Asia Minor, the Monastic libraries, etc." straight through to the modern era.
+
+There's an interesting comment about the role of libraries following the Russian Revolution; Lennin was married to a librarian, and promoted libraries as equally important to education from a state-priority standpoint. Opara continues the conversation to the context of their country, Nigeria, and describes the importance of libraries not only in national development, but "in bringing about societal progress by providing resources which enrich the user's mental vision and dignifies his habit, character, taste, attitude, conduct and perception of life." The library is "a change agent \[serving\] to form the individual into a responsible citizen."<note>The unasked question here (tying back to our previous research) is what material is provided to spur this transition, who provides the material, and what perspective of a "responsible citizen" is being espoused from that perspective?</note>
+
+> According to Garfield (1984), the five laws of library science were a first step toward putting library work on a scientific basis, providing general principles from which all library practices could be deduced. In view of the importance of these laws, Noruzi (2004) and Simpson (2008) have recommended the application of these laws to the Web and the Media respectively. Although Ranganathan later revised the laws (Dasgupta, 2007) by replacing ‘book’ with ‘document’ in the first three laws, the original form of the laws is preferred because book is a more generic term than document.
+
+"Implicit in the second law is that the library is user-centric." Is it tho? Opara suggests users studies will identify the users for whom appropriate books are suited. 
+
+
+
+
+
+
 
 
 
@@ -228,18 +284,7 @@ What I'm saying here is that, in building digital systems which encourage metric
 
 ## Leaves / Pressings
 
+- Apparently Lennin's spouse, [Nadezhda Krupskaya](https://en.wikipedia.org/wiki/Nadezhda_Krupskaya) was a librarian and heavily involved in forming the USSR's public education policy after the revolution?
 
-It's October and I've been watching a lot of horror movies lately. Some notables:
-
-_Wolfen_ was one of three major werewolf movies released in 1981, alongside _An American Werewolf in London_ and _The Howling_. It's less-remembered than its counterparts, but having now seen all three, I can safely say it's the best one. Genre-wise, _Howling_ and _American_ are more traditional creature-features, whereas _Wolfen_ is a police procedural with supernatural elements. Shot on location in shithole-era NYC, we follow a police detective brought back from "retirement" (read: drinking problem) as he investigates a series of murders. _Taking of Phelam 123_ vibes. Solid script and an outstanding cast (Albert Finney, Gregory Hines, Edward James Olmos, Tom Noonan, Diane Venora). Unusually for a werewolf story, the overarching metaphor is _not_ the interplay between an individual's desires and their societally-mandated repression. The wolf-view FX are excellent, featuring an early use of the in-camera technique that would be later adapted for the Predator's infrared vision.
-
-_Raiders of the Living Dead_ is as wacky as its name suggests. A tiny, cheapo film studio in New Jersey bought an unfinished zombie movie, and tacked on newly-added shots to round out the story. The final product is meandering, incomprehensible, and an absolute joy to watch. Iconically stilted line readings; terrible FX; amazing hair; hilariously obvious day-for-night shots; A legitamately incredible soundtrack; A "boy genius" who assembles a lazer gun from a VCR... this movie has it all. 10/10 -- Can't recommend this movie highly enough.
-
-_Oddity_ was pretty good, some legit jump scares and overwhelming tension at times.
-
-
-
-
-
-
+- [Gen. Zhukov's memorial statue](https://upload.wikimedia.org/wikipedia/commons/0/09/030522-Moscow-IMG_8780-2.jpg) depicts him astride a horse trampling a broken Reich Eagle. 10/10 no notes.
 
