@@ -113,4 +113,6 @@ Noruzi, A. (2004) Application of Ranganathan's Laws to the Web. Webology, _1_(2)
 
 Opara, U. N. (2017). _Empowering library users through the Five Laws of Library Science_. Library Philosophy & Practice, 1–14. Library & Information Science Source.
 
+Sethi, A. R. (1986). "Obsolescene in Ranganathan?” Ranganathan’s Philosophy: Assessment, Impact and Relevance. Edited by TS Rajagopalan, New Delhi: Vikas. pp.103-104. https://archive.org/stream/in.ernet.dli.2015.462797/2015.462797.Ranganathans-Philosophy_djvu.txt
+
 Valentine, F. (2010). _Ranganathan Reformatted_. OLA Quarterly, _16_(1), 28–30. https://doi.org/10.7710/1093-7374.1274
