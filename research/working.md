@@ -1,9 +1,60 @@
 # Working - ALIS Centenary Issue
 
-
 ## Overview
 
 > Assembled in its pages are eleven invited studies by LIS scholars, both from India and from abroad, that discuss various facets of Ranganathan’s thought and its enduring effect upon LIS theory and practice. These papers can be divided into three thematic tranches. The first of these deals with Ranganathan the man and his thought, the second examines his continuing influence in LIS, and the third considers Ranganathan and his legacy in light of the latest advances in the practice of information system design. These three thematic clusters can be roughly mapped to the three dimensions of time–the past, the present, and the future. In this sense, they collectively convey the message that Ranganathan was an LIS thinker whose intellectual contributions–a product of a specific time and place–have much to teach us not only today but well into tomorrow as well. (Bianchini & Dousa, 2024)
+
+1. √ S.R. Ranganathan: Making of the man and his method
+2. √ Ranganathan’s Religion and Its Influence on His Library Science
+3. (√ Skim) Lights from the Ramayana in Ranganathan’s Philosophy
+4. √ Soul, Subtle Body, Gross Body: S.R. Ranganathan’s Ontology of the Book in (Its) Context(s)
+5. √ Ranganathan's Documentation in Opposition to European Documentation: a Position based on Library Science
+6. <s>Ranganathan’s Legacy in Italy (2009 -2023)</s>
+7. √ A Domain Analysis of the Influence of The Five Laws of Library Science
+8. <s>Facet, Facet Analysis and Facet-Analytic Theory</s>
+9. (√ skim) From Knowledge Organization to Knowledge Representation and Back
+10. <s>Prismatic...</s>
+
+
+
+
+## From Knowledge Organization to Knowledge Representation and Back (Giunchiglia, F., Bagchi, M., & Das, S.)
+
+Knowledge Organization \[KO\] and Knowlege Representation \[KR\] are two different strategies for making the unweildy heap of human knowledge legible. KO is mainly used in library science, while KR is mainly used in ML and AI.
+
+KO is divided into Systems and Approaches:
+- **Systems** describes classification, catalogging, indexing, and other descriptive/documentary techniques.
+- **Approaches** describes the selection and combination of systems to achieve a desired outcome.
+
+KR is divided into Artefacts and Metholodigies:
+- **Artefacts** are output like knowledge graphs, n-grams, and other machine-derived and -actionable data.
+- **Methodologies** are the tooling and techniques used to produce artefacts.
+
+Though their "high-level functionality" is comprable (e.g. Both KO and KR aim to provide a navigable map of knowledge), their differing aproaches lead to significantly different output. KO is intentional and its output arises from a cultural lineage; KR's output is emergent, and describes knowledge based on the particulars of its tooling.
+
+Giunchiglia, et al. observe KO and KR's respective strengths and weaknesses are quite compatable: That is, KO's systems are typically lack technical emphesis, while KR's methodologies typically lack considerations of the cultural context (e.g. "cannons") in which knowledge production occurs. This paper examines (1) the high-level correspondence betwen KO and KR outputs, and (2) the feasibility of combining the two appraoches.
+
+The authors uses R.'s facet analaysis as the go-between, because it's structuring makes it "naturally amenable to _algorithmisation_;" And it arrives with a robust body of instruction and commentary (e.g. "cannons") about how it should be employed. They consider how such a system might be integrated with the existing digital library infrastructure of the University of Trento, Italy.
+
+In comparing a KO and KR representation of the same entity (a 1973 book on tropical diseases), the authors identify an interesting tendency in KR: Creating supra-metadata heirarchies of metadata type. To whit, a "book" becomes a subclass of a "mind product"; Authors and editors are subclasses of "people"; And the publisher is a subclass of "organization". In a broad sense, the authors want to determine if there are comprable strategies involved in the generation of these "artefacts;" and if so, can be they be condensed into a single strategy which produces all arefacts of both representations?
+
+In discussing recent KO studies, the authors note (interestingly!) "that researchers working on KR methodologies have not attempted to chart out any form of mapping from KR to KO;" though at least one paper (Giunchiglia et al., 2021) has explored employing KO techniques to KR methods.
+
+The paper's analysis of the KO process goes into depth on Ranganathan's Cannons, which are a little outside my research. The main idea here is that the classification process is grounded in philosophy, or guidelines. With that said, even without the particulars of the Cannons, we can see how this philosophically-guided process will lead to vastly differing out than KR -- "For example, the canon of _sought heading_ prescribes that the attributes used to describe the access to a book in a catalogue should be strictly based in accordance with how a user is likely to approach the catalogue."
+
+KR, on the other hand, unless specifically directed by tooling, is use-agnostic; it describes only data-related connections. The authors identify Aristotle's _Genus_ and _Differentia_ as the primary conceptual grounding for KR work; Briefly, any thing can be described lexically can be both grouped (e.g., cats) and differentiated (e.g., torties, tabbys, etc). 
+
+The remaining bulk of the paper presents a methodology for combining the two approaches.
+
+
+
+
+
+
+
+
+
+
 
 ## Soul, Subtle Body, Gross Body: S.R. Ranganathan’s Ontology of the Book in (Its) Context(s) (Dousa, 2024)
 
@@ -123,6 +174,266 @@ Any serious discussion of R.'s intellectual ideas should -- MUST! -- be viewed i
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Ranganathan’s Religion and Its Influence on His Library Science (Broughton, 2024)
+
+This paper seeks to add definition to the entangled religious, philosophical, and cultural strands of Hinduism, as experienced and expressed by Ranganathan. Once again, a Western audiences are reminded we're operating in a fairly different arena here:
+
+> Smart suggests that in modern Hinduism there is no necessary conflict between science and religion, since it has fashioned for itself a new philosophy based on old sources in which religion and science are seen as differing responses to the same cosmos, which to the eye of the mystic and the devotee is divine – and to the eye of the scientist is a material order to be controlled and understood.
+> This is a compelling idea, despite the boundaries for Smart being drawn other than for Ranganathan, but it can hardly have been current in the 1930s when Ranganathan was formulating most of his ideas. For him, the division between the intellectual and the intuitive, between reason and faith is absolute. The separation is not between science and religion _per se_, but between the infinite experienced externally, and the internal experience of the same. How these two can be reconciled is central to the path he eventually took.
+
+### Religion & Mysticism
+
+A fair warning as Broughton traverses the terrain: "The literature is full of conflicting statements about Ranganathan’s religious beliefs." We learn that growing up, R.'s family practiced "_bhakti_, an intense devotional form of Hinduism;" And "a politically oriented movement 'which stressed the equality of devotees' and which doubtless laid the foundations for much of Ranganathan’s social agenda in his librarianship." His wearing of a “‘Gobi’ crescent” _tilaka_ (mark on the forehead) "identifie\[d\] him as a _Saiva_, a follower of Shiva." Hi son states R.'s religious observances occured mostly in private, for example the daily _puja_, and family rituals; And that "much later in life he \[explained to me that\] he did all this more to conform to social practice rather than out of any deep inner conviction."
+
+While in England, he maintained traditional Indian dress, grooming, social customs, and religious observances. Broughton notes his religious observation would have been comprable to his European counterparts, who "would have been actively involved in the Church, and familiar with the Bible and the Christian liturgy." 
+
+Because of his analytical nature, R.'s interest in astrology (_Jyotisa_) came as somewhat of a surprise to his Western counterparts -- but the position of Astrology within the Hinduism's classical educational framework (the _Vendangas_) renders it a fairly divergent practice from its Western counterpart. R.'s first scholastic discipline, Mathematics, "in some contexts is considered a subdscipline of _jyotisa_." 
+
+His love of the Ramamyan is well-evidenced both by quotes in his books, and by the regular exegesic talks he gave before "Library Research Circle meetings at Delhi University." Several sources report R. regularly held seances around 1934, using a Ouigi board to contact the mathematician Ramanujan about whom R. was currently writing a monograph. R.'s son "Yogeshwar says that the group of friends and colleagues who joined his father in 'these spiritualistic or mystic escapades' were all reputable scientists, and for “all of them, there was no link between religion and mysticism.”
+
+
+### Philosophy & Ascetism
+
+"While it is agreed that Ranganathan’s religious beliefs are not apparent from his writings, his use of Indian philosophical methods is more evident." Broughton again provides some helpful compare-and-contrast with Western systems; Citing, in a broad sense, a sort of transcendence or "liberation from the world of time, change, and rebirth" as the end-goal of these philosophical pursuits.
+
+In R.'s intellectual work, Comentators have identified strains of the Barhmin-associated "_Mimamsa_ (or _Purva Mimamsa_) school of philosophy;" which is often concerned with "describing rules of ritual and explainations... concerning its meaning and purpose." R.'s classification system has been liked to "_Vaisesika_ school’s system of categories" in classical Hindu philosophy. 
+
+R.'s unusually aescetic lifestyle (including simple meals, "homespun" garments, and a humble living space without servants) "has led many Indian commentators to regard him as a mystic, although that was not the case and he himself repudiated it." R.'s adherance to this presentation waxed and wanted: R.'s son states that his traditional dress was inspired by Ghandi's nationalist movement in the 1930s (of which traditional dress and local hand-made garments were a staple), and prior to this his dress was Westernized. Later in life, photographs show him with "a Western hairstyle, and no evidence of such cultural symbols as the caste mark, tuft, or turban."
+
+Rather, referencing _bhakti_ principles, several of R.'s contemporaries described him as a "_Karma Yogi_"; That is, one who works toward "liberation" by "yoking" himself to acts or works -- in R.'s case, his single-minded focus on Library science. However, his reasoning for pursuing libraries specifically springs from a deeply humanistic standpoint:
+
+> It should also not be forgotten that Ranganathan was prominent as a public intellectual figure in Indian society. He was invited to come to Banaras University by Radhakrishnan, the eminent philosopher and sometime President of India, and he played a role in the political, social, and educational development of the country. Foskett speaks of how his appointment as a National Research Professor by the Indian Government "acknowledged the contribution that he had made not only to librarianship, but to the life of the nation." His son says that his “own works were divided roughly half and half between pure Library Science professionalism and his involvement in education in general. To him the main goal was 'education for everybody'". Compared with his theoretical work, for "Indian readers his ceaseless campaign for a nation-wide grid of libraries, 'to spread enlightenment across the length and breadth of the state' [was] of much greater practical importance." Roe points out that:
+> Western interest in Ranganathan has not tended to recognize the importance of the epic political struggles that were taking place in India during his lifetime and that had a profound influence on his library work”. [And that] "identification with the Indian independence movement was central to his library theory. Ranganathan’s pioneering work of the 1930s challenged the ideological structures of colonial rule, advocating libraries and librarians as agents of a national political awakening, especially amongst the rural poor."
+
+
+
+## Colon Classification
+
+Broughton discusses the placement of Religion and Mysticism within R.'s Colon Classification \[hereacter, CC\], both of which are in the "main class" sequence.
+
+Earlier editions of R.'s CC describe the selection of main classes as somewhat abritrary (they're somwhat algined with Madras University's departments); though later editions find intellectual grounding for his intuitive choices:
+
+> In most discussions of the main class order of CC the 'map of knowledge' is depicted as a triangle, or occasionally as a broad, upward pointing arrow. Class Δ Mysticism, is the tip, or peak, occupying centre position in the classification. The natural and applied sciences, A-M, precede it, and the humanities and social sciences, N-Z, follow, which division Ranganathan explains as progressing from the natural to the artificial
+
+Later academics who've created analytical frameworks for CC describe "Mysticism, or Spiritual Experience, as the 'peak' among the main classes, making it central to the universe of knowledge overall, and superior to Religion per se." Religion arrives in Class Q, and somehwat unusually is grouped closer to Social Sciences than Philosophy. (Most "universal" classification schemes place Religion at the beginning or end.)
+
+Broughton characterizes R.'s Religion classification as significantly less biased than contemporaneous systems, which typically titled this subject "Theology" (and revised to "Religion" around the 1960s). R. divides "Religion" into two facets: Personality and Energy, covering "individual religions and faiths and their subdivisions" and everything else, respectively. The Personality facet contains no further higher-level subdivisions, but places each religion on a flat heirarchy with a chronological ordering.
+
+
+### Class Δ Spiritual Experience and Mysticism
+
+Mysticism is a Main Class in CC; sitting in the exact center, between classes for (intellectual) hard science and the (intuitive) casses for social science, arts and letter, etc. R.'s disproportionately longer statements regarding this class in CC's Sixth Edition (1960) include some interesting definitions
+
+> The terms 'rational' and 'irrational' refer to the plane of intellection; whereas mystical, occult, and spritual experiences do not beling to the sphere of intellectual apprehension at all. They are said to involve direct (trans-intellectual) insight. (Ranganathan, 1960, 1.92)
+
+This arises from the Hindu philosophical concepts of "_Kartirtantra_ (experimental, analytical study of things in their phenomenal modes); and  _Vastutantra_ (global, holistic stufy of thing-in-itself)."
+
+A library theory to be thoroughly classified in Δ
+
+Δ86 is a "device facet": Should be amplified by \[SD\] to represent mystical or occult expositions of subject except Fine Arts, Literature and Religion.
+
+Interesting note: The Western influences on Ranganathan are considerable. Brought up in India under British colonial rule, the language of his higher education was English and many of his teachers British. His first professional education was in England in 1924. Coblans comments that “he was very “English” in outlook in many ways. In fact, one could almost say he was an “Imperial” product.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lights from the Ramayana in Ranganathan’s Philosophy (Gupta & Satija, 2024)
+
+> It is important to stress that the inspiration of the Ramayana and other Hindu scriptures led Ranganathan to develop a holistic worldview that informed both his professional and his personal life, and that won the admiration of not only his Indian colleagues but also of many of his colleagues in the West.
+
+Here we find a lengthy discussion of the Ramayana in R.'s life and work. The ancient Sanskrit epic appears frequently in R.'s writings and lecutres, and informs, at an underlying level, the ideological grounding of his knowledge classification and The Five Laws. R.'s copy of the _Ramayana_ of Valmiki was gifted to him from his headmaster P. A. Subramania Ayyar in 1923; He read a chapter every morning, and marked the beginning date of each full re-read in the book's opening pages.
+
+One interesting quote from Kumar Girja's (1992) _Ranganathan: An Intellectual Biography_ posits that R.'s daily Ramamyana readings provided a much-needed break from his unrelenting work schedule, and that its frequent appearance in his work was perhaps from R.'s deep, repeated immersion in the book-as-literature rather than from a primarily religious standpoint. Girja posits the book held, for R., a kind of utopian ideal in its alegories and literary representation of animals, humans, gods, and inclusivity of rational and spiritual matters. 
+
+
+### Thoughts
+
+What does it mean that so much of R.'s work is tied into a work of literature?
+
+R. argues in his ontology that some books souls are so powerful they persist time and time again; We are accustomed in Academia to giving deference to ancient epics (e.g. the Odysee was required reading when I was in highschool), but what if this preference grows simply out of scarcity? Developed when literacy rates were vanishingly small, individuals simply had fewer things to reference.
+
+What if instead we looked to our own "personal cannons"? Is part of the power of an epic its monocultural familiarity? E.g., Everyone has to read the Odysee in high school, but you may not have heard Archispire's ___ , Spectral Wound's ___ , or read _Black Wings Has My Angel_. Without familiariaty, the onus is placed on the reader to "catch up" with the author. Hyperlinks are helpful but deeply distracting from a reading perspective. Perhaps the Power of 33 1/3 or BFI/AFI books is that we can assume a baseline of context for the material being discussed?
+
+
+<details>
+
+<summary>Reading notes</summary>
+
+- Ramayana is possibly "the oldest epic in world literature."
+
+- Written in Sanskrit. No consensus on dates, but "is generally supposed to have been written sometime in the first half of the first millennium BCE."
+
+- There's many different by different authors "perhaps the most popular version currently in circulation is the Awadhi version composed by Tulsidas: known as the Ramcharitmanas, it is widely sung in Hindi-speaking areas."
+
+- "...is considered to be a treatise on _Dharma_."
+
+- Has been adapated six ways from Sunday, for all media forms.
+
+> “On 14 November 1923, my headmaster P. A. Subramania Ayyar presented me with a copy of the Ramayana of Valmiki. Since that day, I have been reading everyday a chapter from that copy. On an average the copy has been handled for about half an hour each day during the last 32 years”. ¶ Ranganathan always travelled with a copy of the Ramayana so that he could have it at hand to draw inspiration from it: for example, during his travels to and from England, it was his routine to take a bath every morning and thereafter to sit on the deck of the ship to read aloud from the Ramayana.
+> Ranganathan reread the Ramayana a number of times over the course of his life. As his son Yogeshwar Ranganathan later noted, whenever he began a new reading of the Ramayana, he used to write the date of every cycle on the title page of his personal copy.
+
+"n 1951, Ranganathan's enthusiasm for the Ramayana led him to contribute a reading of the 31st, 35th, and 36th chapters of its fifth book to a Folkways audio recording of recitations of traditional Indian religious poetry," for which he also wrote the liner notes.
+
+https://folkways.si.edu/s-r-shiyali-ramamrita-ranganathan/reading-from-the-ramayana-chapters-31-35-36-of-the-fifth-book-known-as-sundarakanda/poetry-prose/track/smithsonian
+
+https://folkways.si.edu/s-r-shiyali-ramamrita-ranganathan/brahmas-hymns-chapter-117-of-the-sixth-book-known-as-yudhakanda/poetry-prose/track/smithsonian
+
+
+"Similarly, Ranganathan considers that a library is like Kamadhenu, the miraculous cow-goddess of plenty, who fulfilled all the necessities of the rishis." (Paper goes into detail). This comes up in the context of Reference Service, where the staff should emulate this spirit of abundance.
+
+> There are many studies that have connected Ranganathan’s work with ancient Indian scriptures, with titles such as ‘Impact of classical literature in the contribution of Dr. Ranganathan’, ‘SR Ranganathan: combining library science with Indian values’, ‘Influence of Manu on Ranganthan's philosophy of library science’, and ‘Hindu philosophical undertones in formulating library science into a scientific discipline by SR Ranganathan’.
+
+- He praised the Ramayana's first chapter, a synopsis, for providing the essence of the hundred-chapter work. (In English, it means the “Conspectus (or Synopsis) of the Ramayana”) -- "Conspecuts"? A Britishism?
+
+- "The holding of meetings was usually delayed because of the sonorous recitation of Valmiki’s Ramayana by Dr Ranganathan which preceded the business meeting. Irritant to several of us, was the holding of the sessions on Sunday afternoon. The constant prodding of "Rao Sahib", as he is affectionately known, at the sessions which were at times a monologue is still remembered with pleasure." ... This is kind of ASD behavior?
+
+- "Ranganathan had a deep faith in the sacred Ramayana, which had an indelible influence on his spirituality and his worldview."
+
+- "Ranganathan had a strong belief in the God implying a trust on an eternal, omnipotent, omniscient, and Supreme Being and used librarianship as a way to serve the supreme soul."
+
+- An interesting quote here about "the joy of service" -- when the staff connects a reader with a book: "this stage of activating \[the books\], this stage of establishing contact between the right reader and the right book marks the culmination of our work. It is at this stage that we can emulate Janaka in his words of ecstasy:" "\[इयं सीता र्र् सुता सिधर्ूिरी तव। प्रतीच्ि िैनां िद्रं ते िाण ं गृह्णीष्व िाच ना।।1.73.27।।\] Dear reader, here is a book I have acquired, prepared, and decorated for your sake. Accept it. Take it in your hand. Read it. Enjoy it. It will help you all through life.""
+
+- On R.'s use of naming: Chakrabortty mentions that “Appellation is not a trivial matter in spite of the famous Shakespearian saying, ‘what’s in a name?” Ranganathan had a different view and he was convinced about the importance of proper appellation. To justify his views, he cited a relevant example from the Ramayana: There \[were\] three religious functions to Rama, his birth, his naming and his marriage. Putra Karnestijagna was performed by Dasharatha under the priesthood of Rishi Shringi, and Viswamitra played the primary role in the marriage of Rama”
+
+> "[t]he Divine Right so conveniently appropriated by Ranganathan to suit his convenience was effectively made use of by him as a matter of sheer habit. The Ramayana was perhaps employed unintentionally by Ranganathan to rationalize his own actions. Religion was a convenient tool for him, and he was not a particularly religious person, contrary to the general impression about him. He was certainly an ethical being. The Ramayana for instance provided him an ethical and not religious inspiration. The daily recitations of the Ramayana provided him a welcome relief from his heavy professional schedule. He was thus able to transport himself to an ethical state of being in which gods and goddesses mixed freely with human beings. Similarly, the animals were placed on par with human beings. The Ramayana thus provided him with a romantic view of the world more imaginary than real to a romantic being like Ranganathan the present reality was so unreal that the imaginary looked so real. The classic provided him with a futuristic view of the world”
+
+- In the section "Perform your Duties for the Best Service," Gupta & Satija provide a list of metaphors deriving from the Ramayana that R. used to describe ideal library service.
+
+> Ranganathan gave memorable expression to this personal ethic in a talk that he gave at the seminar "From Publisher to Reader", believing that a saint believes in truthfulness as truth always conquers: “One meaning of deva (deity) which I have known is monk, sage or saint. They are not one of those selfish deities found in heaven, but they are the seekers of the highest truth. Let me conclude with the repetition of the prayer: _Tamaso ma jyotir Gamaya_. ¶ Let us take to heart another interpretation of it: Get away, deadly inertia, idleness, and slowness, Come in, life-giving energy, unceasing action, and creative dynamism. सत्यर्ेवियते
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Ranganathan's Documentation in Opposition to European Documentation: a Position based on Library Science (Sales & Amorim)
+
+This work concerns the role of Documentaiton, which European authors, beginning in the late 1930s argued was "an emerging and autonomous field," while R. argued instead for housing Documentation within Library Science. (In the American context, Documentation did not split into its own field, comporting with R.'s prespective.)
+
+What exactly do these authors mean by Documentation? These arguments arise from the dovetailed midcentury proliferation of research and declining cost of publication; i.e., The sheer amount of material coming into existance suggested the need for an intermediary (triage) step to ensure this material was adequitely discoverable and findable. Both in the European and Indian perspectives, Documentation is seen as an outgrowth of "bibliographic activity." The practical work of Documentation encompases creating records, digests, transcriptions, indexes, lit reviews, etc. The material to be documented differs depending on the author, but centers mainly around "scientific and industrial spheres" and related commercial and administrative concerns. 
+
+Paul Otlet's 1934 publication of _Traité de Documentation_ "systematised a practice that had been applied and refined for at least four decades in the European context;" For example, with a bibliographic card catalog called the Universal Bibliographic Repertory \[RBU\], which "served as a tool to update specialists about the most recent developments in their research areas." At the time, the most notable organization in this space was the International Institute of Bibliography, founded 1895 in Brussels, renamed the International Federation for Documentation in 1938.
+
+Otlet's _Traité_ focused on systems and standards for collecting what we'd now call metadata on a "document;" media-agnostic and "defined by its documentary 'function' rather than its 'form'." Extendying beyond mere bibliography, Otlet's Documentation also encompases syntheses, neccesitating the definition and standardization of a new set of techniques. The endgame woul be international Docuemntalist associations contributing to the RBU's expansion into a "'universal book' that would enable a centre for processing and accessing information."
+
+Bradford, a contemporary, had similar end-goals for Documentation, but saw the practice as more of a technical one, without requiring the establishment of a new branch of science. He also saw the primary users of Documentation products as field specialists rather than a universal audience. Both authors argued documentation distinguished itself from Library Science in:
+- The narrowness of its technical practices
+- Its focus on periodicals and ephemera (at the time, Library Science was still primarily concerned with the "treatment of books")
+- Its demand for domain-expertise in the production of documentation, whereas Library Science was organized around generalism.
+- Its sub-Work granulairty "(concepts, facts, and evidence found within texts)"
+
+Suzanne Briet took a more specific view of what exactly constituted a "document," that is, what rendered something suitable for "documentation." She characterized the purpose of a document as its generation of secondary, tertiary (etc) documents -- that is, an object (a star) only gains access to the Documentation process when it is documented (a photo of the star). This concept differs somewhat from Otlet and bradford's ideal endgame of a universal knowledge record, but results in a similar set of technical concerns and practices.
+
+R. on the other hand "approached Documentation not necessarily as a discipline but rather as a library practice;" characterizing it as "cataloguing work carried out with greater intensity (specialization)." He dividing the practice into two activities: documentation work (a specialized subset of catalogging) and documentation service (a specialized subset of reference service).
+
+While European authors characterized Documentation as a multinational "space for political and scientific discourses," The differing political context of India's library system once again surfaces as relevant to keeping Documentation an internal practice:
+
+> For \[R.\], library professionals, aware of their social role and function in the democratic process, not only as distributors of abstract knowledge conveyed in books but also agents embedded within an educational democracy, were professionals capable of performing the activities required by the emerging documentary universe.
+
+> On the European side... there was a political and discursive strategy for the establishment of a theoretical-practical discipline that would occupy a new epistemological space, focused on social progress based on the provision of documentary records. Ranganathan's strategy, on the other hand, was to consolidate the epistemological space of Library Science, considering that the democratic and social process related to documentary work could and should be carried out by librarians who were aware of their role in society.
+
+Reductively, the European system was responding to a cultural space of theohertical multinational neutrality; while the Indian system was responding to a cultural space newly-won democratic independence.
+
+
+
+### Spicy R. Quote!
+
+Lastly, I'd like to reproduce the following spicy Ranganthan quote:
+
+> Ranganathan often critiqued the coining of names of new professionals (documentalists) and a new field (Documentation), stating that the European tradition was merely inventing new names for things that already existed. About this point he wrote: "The documentalists claim that they are doing a piece of work totally different from that of librarians. They do not at all want to call themselves as librarians. They do not want to include their subject in the term ‘Library Science’. They even invent new names for their ‘New Subject’ such as ‘Information Science’ and ‘Informatics’. They call themselves ‘Information Scientists’ in preference to ‘Library Scientists’. This creates a self-deception in them. They imagine that changing the label on a bottle necessarily means change in its contents."
+
+
+
+
+
+
+
+
+
+
+
+## A Domain Analysis of the Influence of _The Five Laws of Library Science_ (Martínez-Ávila, et al.)
+
+This is a quantitative bibliometric analysis, collecting "all works citing Ranganathan in the Web of Science Core Colltion," and narrowing the results to _Five Laws_ references only, resulting in "306 citing documents." Several rounds of disambiguation and processing resulted in "81 keywords," and six document types (Article, Proceedings Paper, book Chapter, Book, Review, and Others). 
+
+Publications citing _The Five Laws_ dated from 1957 to the present, with "an increasing trend from 2005 onward," accounting for 77.5% of total citations. (This comports with my FLFX research, most of which is found in the early web era and beyond. I'd also the citations/year graph they produced resembles the total number of publications per year -- e.g. we might be looking at an [xkcd heatmap](https://xkcd.com/1138/).)
+
+English-lanuage publicaitons were the overwhelming majority (272), with Portuguese being the next highest (21). Martínez-Ávila, et al. trace this line of scholarship to Hagar Espanha Gomes, who from the 1970s onward produced "studies of and about Ranganathan’s classification theory from the Graduate Program in Information Science at the Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), the pioneer graduate course in the 'Library and Information Science' in Latin America and the Caribbean.”
+
+Articles (206) were the most frequent, with Proceedings (26) and Others (24; including Editorial Material, Book Review, Note, and Letter) being the next highest. Martínez-Ávila et al. note:
+
+> The age of the work has not prevented it from being cited by recent journal articles, in which discussions about new trends and philosophical foundations for LIS are published, and this confirms that the book is a strong basis for work in the area and that is a sign of its relevance and connection to the current scientific discourse.
+
+And I want to push back on this a little. The qualitative work on the FLFX corpus identifies a worrying trend in _The Five Laws_-citing work toward a blatant reduction of its contents; including in some cases what I'd consider misreadings based on extrapolation from the wording of the laws rather than their explainations. Per my previous work on uncitedness, this once again reveals the limitations of quantitative analysis: We know _when_ a work is being cited, but not _why_ or the nature of the author's engagement with the cited work. I believe personally that R.'s _Five Laws_ remains a deeply relevant work, but I'm concerned that its "connection to the current scientific discourse" requires an asterisk.
+
+The keyword network analaysis reveals clusters around: academic library, library, univeristy library, digital library, etc. Some interesting things I'd like to call out:
+- The small upper-right cluster of ethics, privacy, and usability;
+- Relatedly, we also find "visually impaired" -- perhaps related to the Law  "every reader their book"?
+- A surprisingly large cluster around "library marketing," including: data mining and intelligent bookshelf.
+
+The author "co-occurrence network presents a low number of ties, which points to the diversity of topics addressed by the documents that cite The Five Laws of Library Science. However, the network and the different keywords that compose it mostly relate to the universe of librarianship, as 84% of the documents fall under the Information Science & Library Science WoS category." The network reveals a high co-citation rate with Louis Guttman and Brian Vickerey, both influential in the development of facet analysis. Other notable clusters include authors:
+- bringing "the newly created field of Information Science using Informatics" and other technology-related techniques to Library Science;
+- employing Computer science's "rationlist approaches" to Library Science;
+- concerned with the philosophy and pedagogy of Library Science;
+- concerned with classification and biographies of noted classificationists.
+
+The graph includes one small cluster of co-authors representing a "thematically distant" body of work from the others:
+
+> J. Daniel Elam writes about anticolonialism (and the fact that _the Five Laws_ were developed during colonial India is mentioned by George), while Kama Maclean and Ajay Skaria write about the history of India (both are cited by Elam). The point is that Ranganathan is cited as a historical figure in a book in which several authors are co-cited without being in direct relationship to Ranganathan’s discourse, only because they give a description and reference to _The Five Laws_.
+
+
+### The Opening Summary
+
+This paper begins with a nicely succinct summary of _The Five Laws of Library Science_'s impact on the library world as a whole. "Although Ranganathan is often revered for his work on facet theory and the _Colon Classification_ in knowledge organisation circles, _The Five Laws of Library Science_ seems to have made a greater impact overall, as it is the most cited work by Ranganathan according to the Google Scholar"
+
+> the Five Laws are a mirror of Ranganathan’s practicality and an easy way of expressing fundamental ideas for the horizon of library work. There is a clear influence of the Indian tradition of universal postulates too. Ranganathan assumed that this work was born under the influence of the Laws of Manu, pedagogical texts that codify the Hindu philosophy of life and the organisation of society.
+
+
+### A note for future research on "science":
+
+> The expression “Library Science” in the title also stands out. It can also be interpreted as a statement of the scientific status of library work, an aspect that was also emerging and being established at the time (note that in 1928 the Graduate Library School at the University of Chicago was established). In fact, it was the work of authors such as Dewey, Cutter, and of course Ranganathan during those and previous years that cemented the scientific status of the area7. According to Loan8, although the library profession is as old as human knowledge, library professionals worked without organised guidance until Ranganathan’s laws became the pivot and bedrock for the progress and development of librarianship worldwide. These laws guided librarians in a moment in which librarianship needed scientific principles to become a Library Science. Satija9 points out that Ranganathan “also got the subject and substance of library science recognized among the academia, intelligentsia and the government,” and that institutionalisation is essential for any scientific domain.
+
+
+
+
+a space of dilly-dallying
 
 
 

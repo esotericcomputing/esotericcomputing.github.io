@@ -9,8 +9,6 @@ ALA. (n.d.). _Budget in the Crosshairs? Navigating a Challenging Budget Year_. A
 PLA. (2021). _Public Library Staff
 and Diversity Report: Results from the 2021 PLA Annual Survey_. Public Library Association. https://www.ala.org/sites/default/files/pla/content/data/PLA_Staff_Survey_Report_2022.pdf
 
-Bianchini, C., & Dousa, T. M. (2024) Editorial Introduction: Ranganathan and his legacy: Past, present, future. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
-
 Boyer, G. (n.d.) _English Poor Laws_. Economic History Association. Accessed 2024, September 24. https://eh.net/encyclopedia/english-poor-laws/
 
 Britannica, T. Editors of Encyclopaedia (2024, September 7). _Dalit_. Encyclopedia Britannica. https://www.britannica.com/topic/Dalit
@@ -79,12 +77,16 @@ UK Parliament (n.d.b) _Second Reform Act 1867_. https://www.parliament.uk/about/
 
 
 
-
 Winter, A. (1998). _Mesmerized: Powers of the mind in Victorian Britain_. Chicago University Press. 9780226902234
 
 TK Wacks - Legal Philosophy VSI
 
 TK Graeber - Utopia of Rules
+
+
+
+
+
 
 
 
@@ -116,3 +118,27 @@ Opara, U. N. (2017). _Empowering library users through the Five Laws of Library 
 Sethi, A. R. (1986). "Obsolescene in Ranganathan?” Ranganathan’s Philosophy: Assessment, Impact and Relevance. Edited by TS Rajagopalan, New Delhi: Vikas. pp.103-104. https://archive.org/stream/in.ernet.dli.2015.462797/2015.462797.Ranganathans-Philosophy_djvu.txt
 
 Valentine, F. (2010). _Ranganathan Reformatted_. OLA Quarterly, _16_(1), 28–30. https://doi.org/10.7710/1093-7374.1274
+
+
+
+
+
+
+
+
+## Annals of Library and Information Studies Ranganathan Centenary issue, March 2024.
+
+Bianchini, C., & Dousa, T. M. (2024) Editorial Introduction: Ranganathan and his legacy: Past, present, future. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
+
+Broughton, V. (2024). _Ranganathan’s Religion and Its Influence on His Library Science_. Annals of Library and Information Studies, 71 https://doi.org/10.56042/alis.v71i1.8964
+
+Dousa, T. M. (2024). _Soul, Subtle Body, Gross Body: S.R. Ranganathan’s Ontology of the Book in (Its) Context(s)_. Annals of Library and Information Studies, 71. https://doi.org/10.56042/alis.v71i1.8964
+
+Gupta, D. K., & Satija, M. P. _Lights from the Ramayana in Ranganathan’s Philosophy_. Annals of Library and Information Studies, 71. https://doi.org/10.56042/alis.v71i1.8960
+
+Martínez-Ávila, D., Almeida, P. de, Mira, B. S. de, & Grácio, M. C. C. (2024). A Domain Analysis of the Influence of The Five Laws of Library Science. Annals of Library and Information Studies, 71(1), Article 1. https://doi.org/10.56042/alis.v71i1.8992
+
+Sales, R., & Amorim, I. (2024). _Ranganathan's Documentation in Opposition to European Documentation: a Position based on Library Science_. Annals of Library and Information Studies, 71. https://doi.org/10.56042/alis.v71i1.8972
+
+Satija, M. P., & Gupta, D. K. (2024). _S R Ranganathan: Making of the Man and his Method_. Annals of Library and Information Studies, 71. https://doi.org/10.56042/alis.v71i1.8930
+
