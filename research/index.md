@@ -1,5 +1,6 @@
 # Research
-- [2024-11-09 - ALIS Centenary Issue: Working Notes](./2024-11-08)
+- [2024-11-09 - ALIS Centenary Issue : Summary](./2024-11-09)
+- [2024-11-08 - ALIS Centenary Issue : Working Notes](./2024-11-08)
 - [2024-10-26 - "Five Laws For X" Papers](./2024-10-26)
 - [2024-10-11 - Five Laws : Book Summary](./2024-10-14)
 - [2024-10-11 - Five Laws : Working Notes](./2024-10-11)
