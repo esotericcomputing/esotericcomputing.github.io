@@ -63,6 +63,10 @@ ul, ol > ul, ol {
   padding-bottom:0em;
 }
 
+ul, ol > ul, ol > li:last-child {
+  padding-bottom:0em;
+}
+
 blockquote {
   line-height:1.2em;
   padding-left:1.5em;

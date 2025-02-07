@@ -1,5 +1,5 @@
 # Research
-- 2025-02-07 College of Information, Data & Society Conference 2025
+- 2025-02-07 CIDS Conference 2025: Wild Literary Choices in Ranganathan's _Five Laws_; or, Forget APA and Change the World
   - [Presentation](https://drive.google.com/file/d/1sbXPhAWmVCjUNnsus2KaDmNk0Ha-P_CI/view?usp=drive_link) (mp4)
   - [Slide Deck](./cids-2025/Devin-Smith-CIDS-2025-Five-Laws.pdf) (pdf)
   - [Transcript](./cids-2025/Devin-Smith-CIDS-2025-Five-Laws) (md/html)
