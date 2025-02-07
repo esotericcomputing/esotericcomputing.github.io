@@ -58,6 +58,10 @@ li {
   padding-bottom:1em;
 }
 
+ul, ol > ul, ol {
+  padding-top:1em;
+}
+
 blockquote {
   line-height:1.2em;
   padding-left:1.5em;
