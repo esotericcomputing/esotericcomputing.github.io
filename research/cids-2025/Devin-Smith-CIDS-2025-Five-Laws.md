@@ -34,11 +34,11 @@ But there's kind of a framing problem with a lot of the post-Gorman work.
 
 It tends to focus exclusively on the book's distillation of the ethos of librarianship. But as George Roe comments, Western academics generally disregard the book's deep political context.
 
-> Western interest in Ranganathan has not tended to recognize the importance of the epic political struggles that were taking place in India during his lifetime...” [And that] “identification with the Indian independence movement was central to his library theory. Ranganathan’s pioneering work of the 1930s challenged the ideological structures of colonial rule, advocating libraries and librarians as agents of a national political awakening...”
+> “Western interest in Ranganathan has not tended to recognize the importance of the epic political struggles that were taking place in India during his lifetime...” [And that] “identification with the Indian independence movement was central to his library theory. Ranganathan’s pioneering work of the 1930s challenged the ideological structures of colonial rule, advocating libraries and librarians as agents of a national political awakening...”
 
 Approaching _The Five Laws_ through a more holistic lens, it becomes clear it's just as much -- if not more -- a work of political advocacy, with the main goal of getting a robust public library system off the ground in India, in order to further the independence movement.
 
-### _How_ to Effect the Change You're Looking For?
+### Reach the Target Audience... and Tread Lightly
 
 So -- To make his case, Ranganathan is primarily addressing the upper-class, English-educated Indians who have the political connections to influence library legislation, and the money to support fledgling libraries.
 
@@ -84,15 +84,9 @@ The first chapter in particular is well-stocked with examples of stuffy oldschoo
 
 > In another place, when the authorities of a library were solemnly discussing ways and means to meet a great increase in the issue of books, a veritable Daniel came "to judgement".
 > 
-> &nbsp;
-> 
 > "When do you have the greatest rush in the day?" asked Daniel.
 > 
-> &nbsp;
-> 
 > "In the evening between 4 and 6", somebody said.
-> 
-> &nbsp;
 > 
 > "There you are," came forth the solution, "Close the library at four instead of at six. That will end the bother."
 
@@ -117,8 +111,6 @@ Two notable aspects of this play are repeated in the others:
 For example, take this exchange:
 
 > _Rule of Least Space_: Costie!You remind me of the revolutionary words of Lord Lyton at the inauguration of the Public Library at Manchester in 1851. You remember his words, "A Library is not only a school, it is an arsenal and an armoury. Books are weapons; either for war or self-defence."
-> 
-> &nbsp;
 > 
 > _Rule of Least Cost_: Yes, I do. But they are the words of a pre-League of Nations-man. Our friend wants us to conceive the library as a regular peaceful workshop, which will prove to be a panacea for the ills of humanity and -- what I am more concerned with -- eliminate all wastage both in local administration and in the State.
 
