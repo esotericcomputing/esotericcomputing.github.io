@@ -142,3 +142,22 @@ Sales, R., & Amorim, I. (2024). _Ranganathan's Documentation in Opposition to Eu
 
 Satija, M. P., & Gupta, D. K. (2024). _S R Ranganathan: Making of the Man and his Method_. Annals of Library and Information Studies, 71. https://doi.org/10.56042/alis.v71i1.8930
 
+
+
+
+
+
+
+
+
+
+## ASD
+
+Atwood, T. (2015) _The Complete Guide to Asperger's Syndrome_. Jessica Kingsley Publishers. 9781843106692
+
+Frith, U. (2003). _Autistm: Explaining the enigma_. Blackwell Publishing. 9780631229018
+
+Frith, U. (2008) _Autism: A very short introduction_. Oxford University Press.
+
+Dickerson, et al. (September 2014) Role of parental occupation in autism spectrum disorder diagnosis and severity. _Research in Autism Spectrum Disorders_, 8(9). https://doi.org/10.1016/j.rasd.2014.05.007 
+
