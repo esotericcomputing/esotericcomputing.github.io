@@ -67,6 +67,8 @@ SFPL. (2022, April). San Francisco Public Library talent acquisition, April 2022
 
 Satija, M. P., & Gupta, D. K. (2024) S R Ranganathan: Making of the man and his method. _Annals of Library and Information Science_, 71. https://doi.org/10.56042/alis.v71i1.8930
 
+Satija, M. P. (1992). _"A Librarian Looks Back: An Autobiography of Dr. S. R. Ranganathan" by S. R. Ranganathan (Book Review)_. Libraries and Culture, 27(3).
+
 Thomas, C. (1999). _Library education in the United Kingdom: Past history, current trends, future posibilities and implications for library education in the United Sates_. Master's paper, Chapel Hill, North Carolina. https://ils.unc.edu/MSpapers/2564.pdf
 
 Trautmann, T. R. (2011). _India: Brief history of a civilization. Oxford University Press_. 9780199736324.
@@ -75,9 +77,9 @@ UK Parliament. (n.d.a) _The Reform Act 1832_. https://www.parliament.uk/about/li
 
 UK Parliament (n.d.b) _Second Reform Act 1867_. https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/furtherreformacts/ Accessed 2024, September 22. 
 
-
-
 Winter, A. (1998). _Mesmerized: Powers of the mind in Victorian Britain_. Chicago University Press. 9780226902234
+
+Young, D. A. B. (1994). _Ramanujan’s illness_. Royal Society Journal of the History of the Sciences, 48(1). https://doi.org/10.1098/rsnr.1994.0009
 
 TK Wacks - Legal Philosophy VSI
 
