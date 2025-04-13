@@ -1,4 +1,6 @@
 # Research
+- [2025-04-13 - The 1992 Cohort](./2025-04-13)
+- [2025-04-11 - S.R. Ranganathan and the West : Full notes](./2025-04-11)
 - [2025-03-08 - Biographies](./2025-03-08)
 - 2025-02-07 CIDS Conference 2025: Wild Literary Choices in Ranganathan's _Five Laws_; or, Forget APA and Change the World
   - [Presentation](https://drive.google.com/file/d/1sbXPhAWmVCjUNnsus2KaDmNk0Ha-P_CI/view?usp=drive_link) (mp4)
